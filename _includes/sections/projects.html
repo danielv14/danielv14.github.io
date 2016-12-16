@@ -1,1 +1,63 @@
-<h2>Projects</h2>
+<section class="projects">
+
+  <div class="container">
+    <h3 class="text-center">Portfolio</h3>
+    {% for portfolio in site.pages %}
+      {% if portfolio.title %}
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <div class="card">
+              <div class="row">
+                <!-- Check what layout portfolio has -->
+                {% if portfolio.layout == "right" %}
+                  <div class="col-md-6 col-md-push-6">
+                    <img class="responsive text-center" src="{{ portfolio.thumbnail }}" alt="Bild på thumbnail">
+                  </div>
+                  <div class="col-md-6 col-md-pull-6">
+                    <a class="title-link" href="{{ portfolio.url | relative_url }}">{{ portfolio.title | escape }}</a>
+                    <p>{{ portfolio.desc }}</p>
+                    {% for tag in portfolio.tech %}
+                      <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                    <div class="links">
+                      <a href="{{ portfolio.url | relative_url }}">Mer info</a>
+                      {% if portfolio.website %}
+                        <a target="_blank" href="{{ portfolio.website }}">Besök</a>
+                      {% endif %}
+                    </div>
+                  </div>
+
+                <!-- if layout instead is left -->
+                {% else %}
+
+                  <div class="col-md-6">
+                    <img class="responsive text-center" src="{{ portfolio.thumbnail }}" alt="Bild på thumbnail">
+                  </div>
+                  <div class="col-md-6">
+                    <a class="title-link" href="{{ portfolio.url | relative_url }}">{{ portfolio.title | escape }}</a>
+                    <p>{{ portfolio.desc }}</p>
+                    {% for tag in portfolio.tech %}
+                      <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                    <div class="links">
+                      <a href="{{ portfolio.url | relative_url }}">Mer info</a>
+                      {% if portfolio.website %}
+                        <a  target="_blank" href="{{ portfolio.website }}">Besök</a>
+                      {% endif %}
+                    </div>
+                  </div>
+                <!-- end of layout check -->
+                {% endif %}
+              </div>
+
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+
+    <h3 class="text-center">Mer på <a class="github-link" target="_blank" href="{{ site.github-url }}">GitHub</a></h3>
+  </div>
+
+
+</section>

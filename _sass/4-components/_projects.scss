@@ -1,0 +1,21 @@
+section.projects {
+
+  .container {
+    padding-top: $padding-sections;
+    padding-bottom: $padding-sections;
+  }
+  background-color: $color-third;
+
+  h3 {
+    font-size: 4rem;
+    color: $color-sitxh;
+  }
+
+  .github-link {
+    font-weight: bold;
+    color: $color-sitxh;
+    text-decoration: none;
+    border-bottom: 4px solid $color-sitxh;
+  }
+
+}

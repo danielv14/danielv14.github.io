@@ -1,0 +1,71 @@
+.card {
+  background-color: $bg-light;
+  padding: 3rem;
+  margin: 2rem;
+  box-shadow: 1px 3px 7px 1px rgba(0,0,0,0.2);
+  border-radius: $border-radius-base;
+  transition: box-shadow 250ms ease-in-out;
+
+  span.tag {
+    padding: .5rem 1rem;
+    background-color: $color-primary;
+    color: white;
+    border-radius: $border-radius-base;
+  }
+
+  a.title-link {
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    color: $color-third;
+  }
+
+  p {
+    color: $color-fifth;
+    font-size: 2.2rem;
+  }
+
+  img {
+    max-width: 350px;
+  }
+
+  div.links {
+    padding-top: 3rem;
+     a {
+       font-family: 'Montserrat', sans-serif;
+       color: $color-third;
+       font-size: 2.4rem;
+     }
+
+     a:first-of-type {
+       padding-right: 2rem;
+     }
+  }
+
+}
+
+.card:hover {
+  box-shadow: 1px 3px 7px 3px rgba(0,0,0,0.2);
+}
+
+@media screen and (max-width: $screen-md) {
+  .card {
+    text-align: center;
+    img {
+      padding-bottom: 1.5rem;
+    }
+  }
+
+}
+
+@media screen and (max-width: $screen-sm) {
+  .card {
+    img {
+      max-width: 80%;
+    }
+
+    .tag {
+      line-height: 2.8rem;
+    }
+  }
+}
