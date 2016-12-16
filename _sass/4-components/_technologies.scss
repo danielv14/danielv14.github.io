@@ -1,0 +1,65 @@
+section.technologies {
+  background-color: $color-secondary;
+
+  .container {
+    padding-top: calc(#{$padding-sections} + 2rem);
+    padding-bottom: calc(#{$padding-sections} + 3rem);
+  }
+
+  h2, h3 {
+    color: white;
+  }
+
+  h2 {
+    margin-top: 0px;
+    font-size: 4.4rem;
+  }
+
+  h3 {
+    font-size: 2.5rem;
+    margin-bottom: 5px;
+  }
+
+  .header-underline {
+    height: 5px;
+    width: 15%;
+    background-color: white;
+    border-radius: $border-radius-base;
+  }
+
+  ul {
+    padding-top: 20px;
+    columns: 2;
+    color: white;
+    list-style: none;
+    padding-left: 0;
+    font-size: 2.2rem;
+    letter-spacing: 0.1rem;
+  }
+
+  // max medium size
+  @media screen and (max-width: $screen-md) {
+    h3, ul {
+      text-align: center;
+    }
+    .header-underline {
+      margin: 0 auto;
+    }
+  }
+
+  // media query for screens smaller than medium size
+  @media screen and (max-width: $screen-sm) {
+    h3 {
+      text-align: center;
+    }
+    .header-underline {
+      margin: 0 auto;
+    }
+    ul {
+      font-size: 1.6rem;
+      columns: 2;
+      text-align: center;
+    }
+  }
+
+}
