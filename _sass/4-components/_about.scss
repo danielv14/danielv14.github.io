@@ -3,8 +3,8 @@ section.about {
   min-height: 400px;
 
   .container {
-    padding-top: 4.5rem;
-    padding-bottom: 4.5rem;
+    padding-top: $padding-sections;
+    padding-bottom: $padding-sections;
   }
 
   h2 {
