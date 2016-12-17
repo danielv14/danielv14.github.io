@@ -1,0 +1,15 @@
+
+span.tag {
+  padding: .5rem 1rem;
+  background-color: $color-primary;
+  color: white;
+  border-radius: $border-radius-base;
+  font-family: "Montserrat", sans-serif;
+}
+
+
+@media screen and (max-width: $screen-sm) {
+  span.tag {
+    line-height: 3rem;
+  }
+}
