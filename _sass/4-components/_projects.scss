@@ -16,6 +16,12 @@ section.projects {
     color: $color-sitxh;
     text-decoration: none;
     border-bottom: 4px solid $color-sitxh;
+
+    &:hover {
+      color: darken($color-sitxh, 15%);
+      border-bottom: 4px solid darken($color-sitxh, 15%);
+
+    }
   }
 
 }
