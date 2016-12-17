@@ -11,7 +11,7 @@
                 <!-- Check what layout portfolio has -->
                 {% if portfolio.layout == "right" %}
                   <div class="col-md-6 col-md-push-6">
-                    <img class="responsive text-center" src="{{ portfolio.thumbnail }}" alt="Bild på thumbnail">
+                    <img class="text-center" src="{{ portfolio.thumbnail }}" alt="Bild på thumbnail">
                   </div>
                   <div class="col-md-6 col-md-pull-6">
                     <a class="title-link" href="{{ portfolio.url | relative_url }}">{{ portfolio.title | escape }}</a>
@@ -31,7 +31,7 @@
                 {% else %}
 
                   <div class="col-md-6">
-                    <img class="responsive text-center" src="{{ portfolio.thumbnail }}" alt="Bild på thumbnail">
+                    <img class="text-center" src="{{ portfolio.thumbnail }}" alt="Bild på thumbnail">
                   </div>
                   <div class="col-md-6">
                     <a class="title-link" href="{{ portfolio.url | relative_url }}">{{ portfolio.title | escape }}</a>
