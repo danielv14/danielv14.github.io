@@ -1,0 +1,61 @@
+section.project {
+  padding: 20px;
+  background-color: $bg-light;
+
+  .tags {
+    margin: 1.5rem 0;
+  }
+
+
+  .btn-back-wrapper {
+    margin-bottom: 3rem;
+    margin-top: 2%;
+  }
+
+  .btn-back {
+    margin-left: 2%;
+    color: $color-primary;
+    border: 5px solid $color-primary;
+    padding: 1rem 2rem;
+    font-size: 2.5rem;
+    border-radius: $border-radius-base;
+    text-decoration: none;
+    transition: all 250ms linear;
+    &:hover {
+      color: white;
+      background-color: $color-primary;
+    }
+  }
+
+  .hero-img-wrapper {
+    margin-bottom: 3rem;
+  }
+  .hero-img {
+    max-width: 980px;
+    width: 100%;
+    image-rendering: -moz-crisp-edges;         /* Firefox */
+    image-rendering:   -o-crisp-edges;         /* Opera */
+    image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
+  }
+
+  article {
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.1);
+    border-radius: $border-radius-base;
+    background-color: white;
+    padding: 2.5rem 3rem;
+    margin-bottom: 3rem;
+
+    h1,h2,h3,h4,h5,h6 {
+      font-weight: bold;
+      color: $color-primary;
+    }
+
+    p {
+      font-size: 1.85rem;
+      line-height: 2.7rem;
+      color: $color-fifth;
+    }
+  }
+}

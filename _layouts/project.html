@@ -2,4 +2,32 @@
 layout: default
 ---
 
-{{ content }}
+<section class="project">
+
+  <div class="row btn-back-wrapper">
+    <a class="btn-back" href="/">Tillbaka</a>
+  </div>
+
+  <div class="row text-center hero-img-wrapper">
+    <img class="hero-img" src="{{ page.image }}" alt="">
+  </div>
+
+  <div class="container">
+    <article class="col-md-10 col-md-offset-1">
+
+      <h2 class="text-center">{{ page.title }}</h2>
+
+      <div class="tags">
+        {% for tag in page.tech %}
+          <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+
+
+      {{ content }}
+    </article>
+  </div>
+
+
+
+</section>
