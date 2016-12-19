@@ -22,7 +22,10 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github-url: github.com/danielv14
-
+bio: >
+  Jag heter Daniel och skapar webbplatser och webappar.
+  När jag inte knackar kod eller lyssnar på podcasts om kod
+  ser jag gärna en sci-fi film eller senaste avsnittet av Westworld.
 # Build settings
 markdown: kramdown
 theme: minima
