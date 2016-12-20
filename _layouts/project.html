@@ -26,7 +26,12 @@ layout: default
   <div class="container">
     <article class="col-md-10 col-md-offset-1">
 
-      <h2 class="text-center">{{ page.title }}</h2>
+      <h2 class="text-center title">
+        {{ page.title }}
+        {% if page.in-progress %}
+          <span class="tag">Under utveckling</span>
+        {% endif %}
+      </h2>
 
       <div class="tags">
         {% for tag in page.tech %}
