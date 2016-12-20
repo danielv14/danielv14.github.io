@@ -1,4 +1,8 @@
 
+h2.title {
+  margin-bottom: 3.4rem;
+}
+
 span.tag {
   padding: .5rem 1rem;
   background-color: $color-primary;
@@ -7,9 +11,21 @@ span.tag {
   font-family: "Montserrat", sans-serif;
 }
 
+h2 {
+  span.tag {
+    background-color: $color-third;
+    font-size: 1.6rem;
+  }
+}
+
 
 @media screen and (max-width: $screen-sm) {
   span.tag {
     line-height: 3rem;
+  }
+  h2 {
+    span.tag {
+      font-size: 1rem;
+    }
   }
 }
