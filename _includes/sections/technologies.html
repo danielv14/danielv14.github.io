@@ -6,7 +6,7 @@
         <h3>Webbutveckling</h3>
         <div class="header-underline"></div>
         <ul>
-          {% for tech in site.tech-webdev %}
+          {% for tech in site.data.technologies.webdev %}
             <li>{{ tech }}</li>
           {% endfor %}
         </ul>
@@ -15,7 +15,7 @@
         <h3>Övrigt</h3>
         <div class="header-underline"></div>
         <ul>
-          {% for tech in site.tech-other %}
+          {% for tech in site.data.technologies.other %}
             <li>{{ tech }}</li>
           {% endfor %}
         </ul>
