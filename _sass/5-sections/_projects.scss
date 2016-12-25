@@ -1,10 +1,11 @@
 section.projects {
 
+  background-color: $color-third;
+
   .container {
     padding-top: $padding-sections;
     padding-bottom: $padding-sections;
   }
-  background-color: $color-third;
 
   h3 {
     font-size: 4rem;
