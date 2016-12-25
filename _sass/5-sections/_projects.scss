@@ -25,3 +25,19 @@ section.projects {
   }
 
 }
+
+@media screen and (min-width: $screen-md) {
+  section.projects {
+    .card {
+      transition: transform 150ms ease-in;
+      // Font smoothing on webkit to not get blurry cards
+      // while scaling
+      -webkit-font-smoothing: antialiased;
+      &:hover {
+        transform: scale(1.015);
+        -ms-transform: scale(1.015);
+        -webkit-transform: scale(1.015);
+      }
+    }
+  }
+}
