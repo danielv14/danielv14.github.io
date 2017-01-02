@@ -25,6 +25,7 @@ section.hero {
     letter-spacing: 0.35rem;
     border-radius: $border-radius-base;
     font-weight: bold;
+    animation: animate-border 1s ease-in;
   }
 
 
