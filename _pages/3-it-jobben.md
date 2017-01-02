@@ -2,7 +2,7 @@
 layout: project
 permalink: "/it-jobben/"
 title: IT Jobben
-desc: Webbplats som konsumerar Arbetsförmedlingens API
+desc: Webbplats som konsumerar Arbetsförmedlingens API för att hitta IT-jobb
 thumbnail: "/assets/img/thumbnails/it-jobben.png"
 thumb-layout: left
 image: "/assets/img/projects/it-jobben.png"
@@ -10,9 +10,11 @@ tech: [Node, Angular, NoSQL, API]
 github: https://github.com/danielv14/IT-Jobben
 website: http://itjobben.herokuapp.com/
 ---
-Offal green juice pok pok umami. Mumblecore slow-carb four dollar toast schlitz listicle. Listicle helvetica wayfarers, blog retro sustainable kinfolk. Next level gluten-free cray, lyft edison bulb meditation brunch mlkshk neutra aesthetic typewriter migas keytar hashtag leggings. Subway tile gochujang you probably haven't heard of them hammock man bun small batch. Copper mug health goth cliche affogato DIY twee. Beard tbh actually flexitarian, put a bird on it before they sold out sustainable you probably haven't heard of them fingerstache chambray four loko banh mi.
+IT Jobben är webbapplikation som består av Angular på frontend-sidan och en Node server på backend-sidan. Webbapplikationen använder sig av Arbetsförmedlingens API för att visa alla IT-relaterade yrken som finns på just arbetsförmedlingen. På IT jobben kan besökaren söka fritt efter yrken relaterade till IT, hitta IT-jobb i specifika kommuner och hitta lediga IT-jobb inom specifik yrkesgrupp och yrke. Om besökaren skapar ett konto, via Facebook-inloggning, kan denne även spara sökord och annonser i sin profil.
 
-Master cleanse forage cray vape pinterest. Poutine narwhal blog kinfolk pop-up, banh mi craft beer hexagon twee. Semiotics biodiesel tofu schlitz pork belly chia. Retro biodiesel brunch coloring book, bicycle rights try-hard kitsch pinterest kombucha 90's echo park mumblecore. Portland aesthetic viral banjo typewriter. Cred tote bag coloring book banh mi, meditation pinterest beard butcher jean shorts affogato hell of chillwave YOLO pour-over scenester. Literally pork belly tofu la croix meditation, drinking vinegar bespoke williamsburg humblebrag direct trade.
+IT Jobben finns upplagd på internet med hjälp av Heroku och går att besöka [här](http://itjobben.herokuapp.com/). Den något längre initiala svarstiden beror på att applikationens hosting är gratis och att den virtuella server som applikationen ligger på sover när ingen besöker webbadressen.
 
-### Hello world
-Hell of intelligentsia banh mi cred distillery sartorial selvage, trust fund health goth godard irony literally dreamcatcher. Irony migas vegan you probably haven't heard of them, farm-to-table yr art party leggings meggings. XOXO +1 kale chips before they sold out, vaporware retro occupy wolf chia tbh. Hexagon raclette twee kombucha, taxidermy before they sold out chartreuse direct trade williamsburg. Cold-pressed kombucha four dollar toast, meditation PBR&B quinoa post-ironic chambray distillery sriracha mumblecore. Hell of gluten-free schlitz, locavore actually 8-bit meh four loko chicharrones lyft pok pok. Mumblecore hashtag marfa pickled intelligentsia, air plant beard.
+## Utmaningar
+En av de kanske största utmaningarna var att studera hur Arbetsförmedlingens API fungerade och lära mig vilka sorters anrop till API:t som behövdes göras för att hela tiden komma åt rätt sorts information. En del anrop till API:t returnerar data som först måste behandlas i IT Jobbens Node-server innan de kan skickas vidare till Angular på frontend-sidan. Detta är en av anledningarna till att en egen Node-server ligger emellan Angular applikationen och arbetsförmedlingens API då Angular egentligen skulle ha kunnat göra API-anropen själv. Att skapa en Node-server emellan gjorde även att jag fick lära mig mer under själva IT Jobbens skapande.
+
+En annan utmaning var att använda Angular.js i den skala som krävs för att skapa den funktionalitet som finns i webbapplikationen. Tidigare var jag knappt varse om vad Angular.js var och hur ramverket kunde användas för att skapa interaktionsrika webbapplikationer
