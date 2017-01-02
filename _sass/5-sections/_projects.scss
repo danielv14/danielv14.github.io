@@ -2,6 +2,9 @@ section.projects {
 
   a {
     text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   background-color: $color-third;
@@ -23,6 +26,7 @@ section.projects {
     border-bottom: 4px solid $color-sitxh;
 
     &:hover {
+      text-decoration: none;
       color: darken($color-sitxh, 15%);
       border-bottom: 4px solid darken($color-sitxh, 15%);
 
