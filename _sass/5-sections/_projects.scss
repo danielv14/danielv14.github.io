@@ -31,7 +31,7 @@ section.projects {
 
 }
 
-@media screen and (min-width: $screen-md) {
+@media screen and (min-width: $screen-sm) {
   section.projects {
     .card {
       transition: transform $card-animation-speed ease-in-out;
