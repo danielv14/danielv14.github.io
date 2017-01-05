@@ -17,6 +17,10 @@ section.projects {
   h3 {
     font-size: 4rem;
     color: $color-sitxh;
+
+    &:first-of-type {
+      margin-bottom: 10px;
+    }
   }
 
   .github-link {
