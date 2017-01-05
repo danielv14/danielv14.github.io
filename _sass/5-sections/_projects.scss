@@ -3,6 +3,8 @@ section.projects {
   background: url('../../assets/img/bg.svg');
   background-repeat: repeat;
   background-size: 800px;
+  background-color: $color-third;
+
 
   a {
     text-decoration: none;
@@ -10,8 +12,6 @@ section.projects {
       text-decoration: underline;
     }
   }
-
-  background-color: $color-third;
 
   .container {
     padding-top: $padding-sections;
