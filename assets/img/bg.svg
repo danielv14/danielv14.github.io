@@ -1,207 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1171px" height="590px" viewBox="0 0 1171 590" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 4</title>
+    <title>Group</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M90.2148456,10.8678822 C89.6801926,9.47548084 90.1783068,7.81919865 91.3219938,7.17154225 L101.709599,1.28916459 C102.855713,0.640133753 104.217501,1.24082024 104.752897,2.63515593 L109.111722,13.9868818 C109.646376,15.3792831 109.148261,17.0355653 108.004574,17.6832217 L97.6169695,23.5655993 C96.4708554,24.2146302 95.1090672,23.6139437 94.5736714,22.219608 L90.2148456,10.8678822" id="path-1"></path>
+        <path d="M96.2148456,12.8678822 C95.6801926,11.4754808 96.1783068,9.81919865 97.3219938,9.17154225 L107.709599,3.28916459 C108.855713,2.64013375 110.217501,3.24082024 110.752897,4.63515593 L115.111722,15.9868818 C115.646376,17.3792831 115.148261,19.0355653 114.004574,19.6832217 L103.616969,25.5655993 C102.470855,26.2146302 101.109067,25.6139437 100.573671,24.219608 L96.2148456,12.8678822" id="path-1"></path>
         <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <path d="M347.488791,222.070348 C346.954138,220.677947 347.452253,219.021665 348.59594,218.374008 L358.983544,212.491631 C360.129659,211.8426 361.491447,212.443286 362.026843,213.837622 L366.385668,225.189348 C366.920321,226.581749 366.422207,228.238031 365.27852,228.885688 L354.890915,234.768065 C353.744801,235.417096 352.383013,234.81641 351.847617,233.422074 L347.488791,222.070348" id="path-3"></path>
+        <path d="M353.488791,224.070348 C352.954138,222.677947 353.452253,221.021665 354.59594,220.374008 L364.983544,214.491631 C366.129659,213.8426 367.491447,214.443286 368.026843,215.837622 L372.385668,227.189348 C372.920321,228.581749 372.422207,230.238031 371.27852,230.885688 L360.890915,236.768065 C359.744801,237.417096 358.383013,236.81641 357.847617,235.422074 L353.488791,224.070348" id="path-3"></path>
         <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-3"></use>
         </mask>
-        <path d="M224.078742,18.5371425 C223.751078,17.0520885 224.475908,15.5259205 225.697846,15.128302 L244.237947,9.09535521 C245.459818,8.69775856 246.716097,9.57991202 247.04363,11.0643709 L248.896694,19.4628918 C249.224358,20.9479458 248.499528,22.4741138 247.27759,22.8717323 L228.737489,28.9046791 C227.515618,29.3022758 226.25934,28.4201223 225.931806,26.9356635 L224.078742,18.5371425" id="path-5"></path>
+        <path d="M230.078742,20.5371425 C229.751078,19.0520885 230.475908,17.5259205 231.697846,17.128302 L250.237947,11.0953552 C251.459818,10.6977586 252.716097,11.579912 253.04363,13.0643709 L254.896694,21.4628918 C255.224358,22.9479458 254.499528,24.4741138 253.27759,24.8717323 L234.737489,30.9046791 C233.515618,31.3022758 232.25934,30.4201223 231.931806,28.9356635 L230.078742,20.5371425" id="path-5"></path>
         <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24.9754361" height="20.0000343" fill="white">
             <use xlink:href="#path-5"></use>
         </mask>
-        <rect id="path-7" x="22" y="12" width="34" height="24"></rect>
+        <rect id="path-7" x="28" y="14" width="34" height="24"></rect>
         <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="24" fill="white">
             <use xlink:href="#path-7"></use>
         </mask>
-        <path d="M90.2148456,10.8678822 C89.6801926,9.47548084 90.1783068,7.81919865 91.3219938,7.17154225 L101.709599,1.28916459 C102.855713,0.640133753 104.217501,1.24082024 104.752897,2.63515593 L109.111722,13.9868818 C109.646376,15.3792831 109.148261,17.0355653 108.004574,17.6832217 L97.6169695,23.5655993 C96.4708554,24.2146302 95.1090672,23.6139437 94.5736714,22.219608 L90.2148456,10.8678822" id="path-9"></path>
+        <path d="M998.888278,267.013118 C998.353624,265.620717 998.851739,263.964435 999.995426,263.316778 L1010.38303,257.434401 C1011.52914,256.78537 1012.89093,257.386056 1013.42633,258.780392 L1017.78515,270.132118 C1018.31981,271.524519 1017.82169,273.180801 1016.67801,273.828458 L1006.2904,279.710835 C1005.14429,280.359866 1003.7825,279.75918 1003.2471,278.364844 L998.888278,267.013118" id="path-9"></path>
         <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-9"></use>
         </mask>
-        <path d="M347.488791,222.070348 C346.954138,220.677947 347.452253,219.021665 348.59594,218.374008 L358.983544,212.491631 C360.129659,211.8426 361.491447,212.443286 362.026843,213.837622 L366.385668,225.189348 C366.920321,226.581749 366.422207,228.238031 365.27852,228.885688 L354.890915,234.768065 C353.744801,235.417096 352.383013,234.81641 351.847617,233.422074 L347.488791,222.070348" id="path-11"></path>
+        <path d="M741.614332,55.8106522 C741.079679,54.4182509 741.577793,52.7619687 742.72148,52.1143123 L753.109085,46.2319346 C754.255199,45.5829038 755.616987,46.1835903 756.152383,47.577926 L760.511209,58.9296518 C761.045862,60.3220531 760.547747,61.9783353 759.40406,62.6259917 L749.016456,68.5083694 C747.870341,69.1574002 746.508553,68.5567137 745.973157,67.162378 L741.614332,55.8106522" id="path-11"></path>
         <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-11"></use>
         </mask>
-        <path d="M224.078742,18.5371425 C223.751078,17.0520885 224.475908,15.5259205 225.697846,15.128302 L244.237947,9.09535521 C245.459818,8.69775856 246.716097,9.57991202 247.04363,11.0643709 L248.896694,19.4628918 C249.224358,20.9479458 248.499528,22.4741138 247.27759,22.8717323 L228.737489,28.9046791 C227.515618,29.3022758 226.25934,28.4201223 225.931806,26.9356635 L224.078742,18.5371425" id="path-13"></path>
+        <path d="M859.103306,261.537108 C858.775642,260.052054 859.500472,258.525886 860.72241,258.128268 L879.262511,252.095321 C880.484382,251.697724 881.74066,252.579878 882.068194,254.064337 L883.921258,262.462857 C884.248922,263.947911 883.524092,265.474079 882.302154,265.871698 L863.762053,271.904645 C862.540182,272.302241 861.283903,271.420088 860.95637,269.935629 L859.103306,261.537108" id="path-13"></path>
         <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24.9754361" height="20.0000343" fill="white">
             <use xlink:href="#path-13"></use>
         </mask>
-        <rect id="path-15" x="22" y="12" width="34" height="24"></rect>
+        <rect id="path-15" x="1052" y="245" width="34" height="24"></rect>
         <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="24" fill="white">
             <use xlink:href="#path-15"></use>
         </mask>
-        <path d="M170.214846,10.8678822 C169.680193,9.47548084 170.178307,7.81919865 171.321994,7.17154225 L181.709599,1.28916459 C182.855713,0.640133753 184.217501,1.24082024 184.752897,2.63515593 L189.111722,13.9868818 C189.646376,15.3792831 189.148261,17.0355653 188.004574,17.6832217 L177.616969,23.5655993 C176.470855,24.2146302 175.109067,23.6139437 174.573671,22.219608 L170.214846,10.8678822" id="path-17"></path>
+        <path d="M714.214846,315.867882 C713.680193,314.475481 714.178307,312.819199 715.321994,312.171542 L725.709599,306.289165 C726.855713,305.640134 728.217501,306.24082 728.752897,307.635156 L733.111722,318.986882 C733.646376,320.379283 733.148261,322.035565 732.004574,322.683222 L721.616969,328.565599 C720.470855,329.21463 719.109067,328.613944 718.573671,327.219608 L714.214846,315.867882" id="path-17"></path>
         <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-17"></use>
         </mask>
-        <path d="M427.488791,222.070348 C426.954138,220.677947 427.452253,219.021665 428.59594,218.374008 L438.983544,212.491631 C440.129659,211.8426 441.491447,212.443286 442.026843,213.837622 L446.385668,225.189348 C446.920321,226.581749 446.422207,228.238031 445.27852,228.885688 L434.890915,234.768065 C433.744801,235.417096 432.383013,234.81641 431.847617,233.422074 L427.488791,222.070348" id="path-19"></path>
+        <path d="M971.488791,527.070348 C970.954138,525.677947 971.452253,524.021665 972.59594,523.374008 L982.983544,517.491631 C984.129659,516.8426 985.491447,517.443286 986.026843,518.837622 L990.385668,530.189348 C990.920321,531.581749 990.422207,533.238031 989.27852,533.885688 L978.890915,539.768065 C977.744801,540.417096 976.383013,539.81641 975.847617,538.422074 L971.488791,527.070348" id="path-19"></path>
         <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-19"></use>
         </mask>
-        <path d="M304.078742,18.5371425 C303.751078,17.0520885 304.475908,15.5259205 305.697846,15.128302 L324.237947,9.09535521 C325.459818,8.69775856 326.716097,9.57991202 327.04363,11.0643709 L328.896694,19.4628918 C329.224358,20.9479458 328.499528,22.4741138 327.27759,22.8717323 L308.737489,28.9046791 C307.515618,29.3022758 306.25934,28.4201223 305.931806,26.9356635 L304.078742,18.5371425" id="path-21"></path>
+        <path d="M848.078742,323.537143 C847.751078,322.052089 848.475908,320.525921 849.697846,320.128302 L868.237947,314.095355 C869.459818,313.697759 870.716097,314.579912 871.04363,316.064371 L872.896694,324.462892 C873.224358,325.947946 872.499528,327.474114 871.27759,327.871732 L852.737489,333.904679 C851.515618,334.302276 850.25934,333.420122 849.931806,331.935663 L848.078742,323.537143" id="path-21"></path>
         <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24.9754361" height="20.0000343" fill="white">
             <use xlink:href="#path-21"></use>
         </mask>
-        <rect id="path-23" x="102" y="12" width="34" height="24"></rect>
+        <rect id="path-23" x="646" y="317" width="34" height="24"></rect>
         <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="24" fill="white">
             <use xlink:href="#path-23"></use>
         </mask>
-        <path d="M90.2148456,10.8678822 C89.6801926,9.47548084 90.1783068,7.81919865 91.3219938,7.17154225 L101.709599,1.28916459 C102.855713,0.640133753 104.217501,1.24082024 104.752897,2.63515593 L109.111722,13.9868818 C109.646376,15.3792831 109.148261,17.0355653 108.004574,17.6832217 L97.6169695,23.5655993 C96.4708554,24.2146302 95.1090672,23.6139437 94.5736714,22.219608 L90.2148456,10.8678822" id="path-25"></path>
+        <path d="M431.888278,570.013118 C431.353624,568.620717 431.851739,566.964435 432.995426,566.316778 L443.383031,560.434401 C444.529145,559.78537 445.890933,560.386056 446.426329,561.780392 L450.785154,573.132118 C451.319807,574.524519 450.821693,576.180801 449.678006,576.828458 L439.290401,582.710835 C438.144287,583.359866 436.782499,582.75918 436.247103,581.364844 L431.888278,570.013118" id="path-25"></path>
         <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-25"></use>
         </mask>
-        <path d="M347.488791,222.070348 C346.954138,220.677947 347.452253,219.021665 348.59594,218.374008 L358.983544,212.491631 C360.129659,211.8426 361.491447,212.443286 362.026843,213.837622 L366.385668,225.189348 C366.920321,226.581749 366.422207,228.238031 365.27852,228.885688 L354.890915,234.768065 C353.744801,235.417096 352.383013,234.81641 351.847617,233.422074 L347.488791,222.070348" id="path-27"></path>
+        <path d="M174.614332,358.810652 C174.079679,357.418251 174.577793,355.761969 175.72148,355.114312 L186.109085,349.231935 C187.255199,348.582904 188.616987,349.18359 189.152383,350.577926 L193.511209,361.929652 C194.045862,363.322053 193.547747,364.978335 192.40406,365.625992 L182.016456,371.508369 C180.870341,372.1574 179.508553,371.556714 178.973157,370.162378 L174.614332,358.810652" id="path-27"></path>
         <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.3265681" height="22.7992655" fill="white">
             <use xlink:href="#path-27"></use>
         </mask>
-        <path d="M224.078742,18.5371425 C223.751078,17.0520885 224.475908,15.5259205 225.697846,15.128302 L244.237947,9.09535521 C245.459818,8.69775856 246.716097,9.57991202 247.04363,11.0643709 L248.896694,19.4628918 C249.224358,20.9479458 248.499528,22.4741138 247.27759,22.8717323 L228.737489,28.9046791 C227.515618,29.3022758 226.25934,28.4201223 225.931806,26.9356635 L224.078742,18.5371425" id="path-29"></path>
+        <path d="M292.103306,564.537108 C291.775642,563.052054 292.500472,561.525886 293.72241,561.128268 L312.262511,555.095321 C313.484382,554.697724 314.74066,555.579878 315.068194,557.064337 L316.921258,565.462857 C317.248922,566.947911 316.524092,568.474079 315.302154,568.871698 L296.762053,574.904645 C295.540182,575.302241 294.283903,574.420088 293.95637,572.935629 L292.103306,564.537108" id="path-29"></path>
         <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24.9754361" height="20.0000343" fill="white">
             <use xlink:href="#path-29"></use>
         </mask>
-        <rect id="path-31" x="22" y="12" width="34" height="24"></rect>
+        <rect id="path-31" x="485" y="548" width="34" height="24"></rect>
         <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="24" fill="white">
             <use xlink:href="#path-31"></use>
         </mask>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-5" transform="translate(-209.000000, -297.000000)">
-            <g id="Group-4" transform="translate(212.000000, 299.000000)">
-                <g id="Group-2" transform="translate(6.000000, 0.000000)">
-                    <g id="Group" transform="translate(0.000000, 2.000000)">
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-4)" stroke-width="8" xlink:href="#path-3"></use>
-                        <path d="M99.3092546,135.969812 C99.3092546,135.969812 105.381614,115.959397 112.165583,111.401923 C118.844567,106.914977 139.698112,108.836552 139.698112,108.836552" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="142.76908 53.1561639 136.123125 54.1079961 139.375965 47.3078934 136.376019 40.147788 142.973676 41.8621183 147.765562 36.4850975 148.590299 44.3447146 154.551794 48.1816385 148.463852 51.3248187 147.356372 59.0731888 142.76908 53.1561639"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="204.971827 201.665927 198.325872 202.617759 201.578711 195.817657 198.578765 188.657551 205.176422 190.371882 209.968309 184.994861 210.793046 192.854478 216.754541 196.691402 210.666599 199.834582 209.559119 207.582952 204.971827 201.665927"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="427.547642 156.444961 420.901687 157.396793 424.154526 150.596691 421.15458 143.436585 427.752237 145.150916 432.544124 139.773895 433.368861 147.633512 439.330356 151.470436 433.242414 154.613616 432.134934 162.361986 427.547642 156.444961"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="304.035661 22.4876974 300.076352 29.0395332 298.199556 21.5128245 291.841566 19.2940836 297.373579 14.603463 297.403433 6.68036997 302.699201 11.3081158 309.075642 8.63011577 306.816594 16.1808405 310.727597 22.4488386 304.035661 22.4876974"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="423.135241 87.9467898 415.634379 100.359163 412.078812 86.0999049 400.033677 81.8965273 410.514008 73.0102036 410.570567 58 420.603335 66.7672082 432.683425 61.6937697 428.403686 75.9985261 435.813033 87.8731723 423.135241 87.9467898"></polyline>
-                        <use id="Rectangle-104" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-6)" stroke-width="8" xlink:href="#path-5"></use>
-                        <path d="M326.962845,59.8710616 C326.962845,59.8710616 351.849728,64.5381796 355.645979,59.8710616 C359.583764,55.0299429 350.164954,31.3463514 350.164954,31.3463514" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="226.739157" cy="81.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="109.894708" cy="269.768618" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="419.21585" cy="10.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <path d="M270,233.473006 L270,265.824201" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M265.966196,266 L239.899628,266" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="24 187 48 229 0 229"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(335.000000, 157.000000) rotate(40.000000) translate(-335.000000, -157.000000) " points="335 136 359 178 311 178"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(448.562125, 242.135543) rotate(-75.000000) translate(-448.562125, -242.135543) " points="448.562125 221.135543 472.562125 263.135543 424.562125 263.135543"></polygon>
-                        <polygon id="Triangle-2" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(491.500000, 86.000000) rotate(-61.000000) translate(-491.500000, -86.000000) " points="491.5 67 519 105 464 105"></polygon>
-                        <ellipse id="Oval-32" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="40" cy="89" rx="16" ry="16"></ellipse>
-                        <polygon id="Polygon-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="119.633865 173 141.983693 189.238101 133.446818 215.511899 105.820911 215.511899 97.2840365 189.238101"></polygon>
-                        <ellipse id="Oval-37" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="353.5" cy="93" rx="18.5" ry="15"></ellipse>
-                        <path d="M217.5,141.5 L263.5,162.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path id="Line-decoration-1" d="M263.5,162.5 L254.921247,155.285779 L252.429493,160.743907 L263.5,162.5 Z" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M537.5,224.5 L505.5,181.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M502.5,215.5 L540.5,188.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <use id="Rectangle-109" stroke-opacity="0.121631567" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="8" xlink:href="#path-7"></use>
-                    </g>
-                    <g id="Group" transform="translate(831.500000, 140.500000) rotate(180.000000) translate(-831.500000, -140.500000) translate(561.000000, 0.000000)">
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-10)" stroke-width="8" xlink:href="#path-9"></use>
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-12)" stroke-width="8" xlink:href="#path-11"></use>
-                        <path d="M99.3092546,135.969812 C99.3092546,135.969812 105.381614,115.959397 112.165583,111.401923 C118.844567,106.914977 139.698112,108.836552 139.698112,108.836552" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="142.76908 53.1561639 136.123125 54.1079961 139.375965 47.3078934 136.376019 40.147788 142.973676 41.8621183 147.765562 36.4850975 148.590299 44.3447146 154.551794 48.1816385 148.463852 51.3248187 147.356372 59.0731888 142.76908 53.1561639"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="204.971827 201.665927 198.325872 202.617759 201.578711 195.817657 198.578765 188.657551 205.176422 190.371882 209.968309 184.994861 210.793046 192.854478 216.754541 196.691402 210.666599 199.834582 209.559119 207.582952 204.971827 201.665927"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="427.547642 156.444961 420.901687 157.396793 424.154526 150.596691 421.15458 143.436585 427.752237 145.150916 432.544124 139.773895 433.368861 147.633512 439.330356 151.470436 433.242414 154.613616 432.134934 162.361986 427.547642 156.444961"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="304.035661 22.4876974 300.076352 29.0395332 298.199556 21.5128245 291.841566 19.2940836 297.373579 14.603463 297.403433 6.68036997 302.699201 11.3081158 309.075642 8.63011577 306.816594 16.1808405 310.727597 22.4488386 304.035661 22.4876974"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="423.135241 87.9467898 415.634379 100.359163 412.078812 86.0999049 400.033677 81.8965273 410.514008 73.0102036 410.570567 58 420.603335 66.7672082 432.683425 61.6937697 428.403686 75.9985261 435.813033 87.8731723 423.135241 87.9467898"></polyline>
-                        <use id="Rectangle-104" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-14)" stroke-width="8" xlink:href="#path-13"></use>
-                        <path d="M326.962845,59.8710616 C326.962845,59.8710616 351.849728,64.5381796 355.645979,59.8710616 C359.583764,55.0299429 350.164954,31.3463514 350.164954,31.3463514" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="226.739157" cy="81.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="109.894708" cy="269.768618" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="419.21585" cy="10.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <path d="M270,233.473006 L270,265.824201" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M265.966196,266 L239.899628,266" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="24 187 48 229 0 229"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(335.000000, 157.000000) rotate(40.000000) translate(-335.000000, -157.000000) " points="335 136 359 178 311 178"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(448.562125, 242.135543) rotate(-75.000000) translate(-448.562125, -242.135543) " points="448.562125 221.135543 472.562125 263.135543 424.562125 263.135543"></polygon>
-                        <polygon id="Triangle-2" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(491.500000, 86.000000) rotate(-61.000000) translate(-491.500000, -86.000000) " points="491.5 67 519 105 464 105"></polygon>
-                        <ellipse id="Oval-32" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="40" cy="89" rx="16" ry="16"></ellipse>
-                        <polygon id="Polygon-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="119.633865 173 141.983693 189.238101 133.446818 215.511899 105.820911 215.511899 97.2840365 189.238101"></polygon>
-                        <ellipse id="Oval-37" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="353.5" cy="93" rx="18.5" ry="15"></ellipse>
-                        <path d="M217.5,141.5 L263.5,162.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path id="Line-decoration-1" d="M263.5,162.5 L254.921247,155.285779 L252.429493,160.743907 L263.5,162.5 Z" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M537.5,224.5 L505.5,181.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M502.5,215.5 L540.5,188.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <use id="Rectangle-109" stroke-opacity="0.121631567" stroke="#FFFFFF" mask="url(#mask-16)" stroke-width="8" xlink:href="#path-15"></use>
-                    </g>
-                    <ellipse id="Oval-43" stroke-opacity="0.117697011" stroke="#FFFFFF" stroke-width="4" cx="538" cy="17.5" rx="30" ry="10.5"></ellipse>
-                    <path d="M561.5,288.5 L582.5,262.5" id="Line" stroke-opacity="0.118121603" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
-                    <path d="M583.5,260.5 L617.5,284.5" id="Line" stroke-opacity="0.118121603" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
-                </g>
-                <g id="Group-2" transform="translate(0.000000, 303.000000)">
-                    <g id="Group" transform="translate(544.000000, 2.000000)">
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-18)" stroke-width="8" xlink:href="#path-17"></use>
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-20)" stroke-width="8" xlink:href="#path-19"></use>
-                        <path d="M179.309255,135.969812 C179.309255,135.969812 185.381614,115.959397 192.165583,111.401923 C198.844567,106.914977 219.698112,108.836552 219.698112,108.836552" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="222.76908 53.1561639 216.123125 54.1079961 219.375965 47.3078934 216.376019 40.147788 222.973676 41.8621183 227.765562 36.4850975 228.590299 44.3447146 234.551794 48.1816385 228.463852 51.3248187 227.356372 59.0731888 222.76908 53.1561639"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="284.971827 201.665927 278.325872 202.617759 281.578711 195.817657 278.578765 188.657551 285.176422 190.371882 289.968309 184.994861 290.793046 192.854478 296.754541 196.691402 290.666599 199.834582 289.559119 207.582952 284.971827 201.665927"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="507.547642 156.444961 500.901687 157.396793 504.154526 150.596691 501.15458 143.436585 507.752237 145.150916 512.544124 139.773895 513.368861 147.633512 519.330356 151.470436 513.242414 154.613616 512.134934 162.361986 507.547642 156.444961"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="384.035661 22.4876974 380.076352 29.0395332 378.199556 21.5128245 371.841566 19.2940836 377.373579 14.603463 377.403433 6.68036997 382.699201 11.3081158 389.075642 8.63011577 386.816594 16.1808405 390.727597 22.4488386 384.035661 22.4876974"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="503.135241 87.9467898 495.634379 100.359163 492.078812 86.0999049 480.033677 81.8965273 490.514008 73.0102036 490.570567 58 500.603335 66.7672082 512.683425 61.6937697 508.403686 75.9985261 515.813033 87.8731723 503.135241 87.9467898"></polyline>
-                        <use id="Rectangle-104" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-22)" stroke-width="8" xlink:href="#path-21"></use>
-                        <path d="M406.962845,59.8710616 C406.962845,59.8710616 431.849728,64.5381796 435.645979,59.8710616 C439.583764,55.0299429 430.164954,31.3463514 430.164954,31.3463514" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="306.739157" cy="81.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="189.894708" cy="269.768618" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="499.21585" cy="10.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <path d="M350,233.473006 L350,265.824201" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M345.966196,266 L319.899628,266" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="104 187 128 229 80 229"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(415.000000, 157.000000) rotate(40.000000) translate(-415.000000, -157.000000) " points="415 136 439 178 391 178"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(528.562125, 242.135543) rotate(-75.000000) translate(-528.562125, -242.135543) " points="528.562125 221.135543 552.562125 263.135543 504.562125 263.135543"></polygon>
-                        <polygon id="Triangle-2" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(571.500000, 86.000000) rotate(-61.000000) translate(-571.500000, -86.000000) " points="571.5 67 599 105 544 105"></polygon>
-                        <ellipse id="Oval-32" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="120" cy="89" rx="16" ry="16"></ellipse>
-                        <polygon id="Polygon-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="199.633865 173 221.983693 189.238101 213.446818 215.511899 185.820911 215.511899 177.284037 189.238101"></polygon>
-                        <ellipse id="Oval-37" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="433.5" cy="93" rx="18.5" ry="15"></ellipse>
-                        <path d="M297.5,141.5 L343.5,162.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path id="Line-decoration-1" d="M343.5,162.5 L334.921247,155.285779 L332.429493,160.743907 L343.5,162.5 Z" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M0.54812819,218.196339 L43.6807908,191.803661" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path id="Line-decoration-1" d="M43.6807908,191.803661 L32.9027522,194.881629 L36.0343742,199.999533 L43.6807908,191.803661 Z" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M617.5,224.5 L585.5,181.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M582.5,215.5 L620.5,188.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <use id="Rectangle-109" stroke-opacity="0.121631567" stroke="#FFFFFF" mask="url(#mask-24)" stroke-width="8" xlink:href="#path-23"></use>
-                    </g>
-                    <g id="Group" transform="translate(270.500000, 140.500000) rotate(180.000000) translate(-270.500000, -140.500000) ">
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-26)" stroke-width="8" xlink:href="#path-25"></use>
-                        <use id="Rectangle-103" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-28)" stroke-width="8" xlink:href="#path-27"></use>
-                        <path d="M99.3092546,135.969812 C99.3092546,135.969812 105.381614,115.959397 112.165583,111.401923 C118.844567,106.914977 139.698112,108.836552 139.698112,108.836552" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="142.76908 53.1561639 136.123125 54.1079961 139.375965 47.3078934 136.376019 40.147788 142.973676 41.8621183 147.765562 36.4850975 148.590299 44.3447146 154.551794 48.1816385 148.463852 51.3248187 147.356372 59.0731888 142.76908 53.1561639"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="204.971827 201.665927 198.325872 202.617759 201.578711 195.817657 198.578765 188.657551 205.176422 190.371882 209.968309 184.994861 210.793046 192.854478 216.754541 196.691402 210.666599 199.834582 209.559119 207.582952 204.971827 201.665927"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="427.547642 156.444961 420.901687 157.396793 424.154526 150.596691 421.15458 143.436585 427.752237 145.150916 432.544124 139.773895 433.368861 147.633512 439.330356 151.470436 433.242414 154.613616 432.134934 162.361986 427.547642 156.444961"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="304.035661 22.4876974 300.076352 29.0395332 298.199556 21.5128245 291.841566 19.2940836 297.373579 14.603463 297.403433 6.68036997 302.699201 11.3081158 309.075642 8.63011577 306.816594 16.1808405 310.727597 22.4488386 304.035661 22.4876974"></polyline>
-                        <polyline id="Star-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="423.135241 87.9467898 415.634379 100.359163 412.078812 86.0999049 400.033677 81.8965273 410.514008 73.0102036 410.570567 58 420.603335 66.7672082 432.683425 61.6937697 428.403686 75.9985261 435.813033 87.8731723 423.135241 87.9467898"></polyline>
-                        <use id="Rectangle-104" stroke-opacity="0.118319746" stroke="#F1F1F1" mask="url(#mask-30)" stroke-width="8" xlink:href="#path-29"></use>
-                        <path d="M326.962845,59.8710616 C326.962845,59.8710616 351.849728,64.5381796 355.645979,59.8710616 C359.583764,55.0299429 350.164954,31.3463514 350.164954,31.3463514" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="226.739157" cy="81.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="109.894708" cy="269.768618" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <ellipse id="Oval-29" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="419.21585" cy="10.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
-                        <path d="M270,233.473006 L270,265.824201" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M265.966196,266 L239.899628,266" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="24 187 48 229 0 229"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(335.000000, 157.000000) rotate(40.000000) translate(-335.000000, -157.000000) " points="335 136 359 178 311 178"></polygon>
-                        <polygon id="Triangle-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(448.562125, 242.135543) rotate(-75.000000) translate(-448.562125, -242.135543) " points="448.562125 221.135543 472.562125 263.135543 424.562125 263.135543"></polygon>
-                        <polygon id="Triangle-2" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" transform="translate(491.500000, 86.000000) rotate(-61.000000) translate(-491.500000, -86.000000) " points="491.5 67 519 105 464 105"></polygon>
-                        <ellipse id="Oval-32" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="40" cy="89" rx="16" ry="16"></ellipse>
-                        <polygon id="Polygon-1" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" points="119.633865 173 141.983693 189.238101 133.446818 215.511899 105.820911 215.511899 97.2840365 189.238101"></polygon>
-                        <ellipse id="Oval-37" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" cx="353.5" cy="93" rx="18.5" ry="15"></ellipse>
-                        <path d="M217.5,141.5 L263.5,162.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path id="Line-decoration-1" d="M263.5,162.5 L254.921247,155.285779 L252.429493,160.743907 L263.5,162.5 Z" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M537.5,224.5 L505.5,181.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <path d="M502.5,215.5 L540.5,188.5" id="Line" stroke-opacity="0.118319746" stroke="#F1F1F1" stroke-width="4" stroke-linecap="square"></path>
-                        <use id="Rectangle-109" stroke-opacity="0.121631567" stroke="#FFFFFF" mask="url(#mask-32)" stroke-width="8" xlink:href="#path-31"></use>
-                    </g>
-                    <ellipse id="Oval-43" stroke-opacity="0.117697011" stroke="#FFFFFF" stroke-width="4" cx="589" cy="31.5" rx="30" ry="10.5"></ellipse>
-                    <g id="Group-3" transform="translate(532.000000, 128.000000)" stroke-opacity="0.118121603" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square">
-                        <path d="M0.5,28.5 L21.5,2.5" id="Line"></path>
-                        <path d="M22.5,0.5 L56.5,24.5" id="Line"></path>
-                    </g>
-                </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.0845504982">
+        <g id="Background-pattern" transform="translate(-209.000000, -297.000000)" stroke="#F1F1F1">
+            <g id="Group" transform="translate(212.000000, 299.000000)">
+                <use id="Rectangle-103" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                <use id="Rectangle-103" mask="url(#mask-4)" stroke-width="8" xlink:href="#path-3"></use>
+                <path d="M105.309255,137.969812 C105.309255,137.969812 111.381614,117.959397 118.165583,113.401923 C124.844567,108.914977 145.698112,110.836552 145.698112,110.836552" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <polyline id="Star-1" stroke-width="4" points="148.76908 55.1561639 142.123125 56.1079961 145.375965 49.3078934 142.376019 42.147788 148.973676 43.8621183 153.765562 38.4850975 154.590299 46.3447146 160.551794 50.1816385 154.463852 53.3248187 153.356372 61.0731888 148.76908 55.1561639"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="210.971827 203.665927 204.325872 204.617759 207.578711 197.817657 204.578765 190.657551 211.176422 192.371882 215.968309 186.994861 216.793046 194.854478 222.754541 198.691402 216.666599 201.834582 215.559119 209.582952 210.971827 203.665927"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="433.547642 158.444961 426.901687 159.396793 430.154526 152.596691 427.15458 145.436585 433.752237 147.150916 438.544124 141.773895 439.368861 149.633512 445.330356 153.470436 439.242414 156.613616 438.134934 164.361986 433.547642 158.444961"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="310.035661 24.4876974 306.076352 31.0395332 304.199556 23.5128245 297.841566 21.2940836 303.373579 16.603463 303.403433 8.68036997 308.699201 13.3081158 315.075642 10.6301158 312.816594 18.1808405 316.727597 24.4488386 310.035661 24.4876974"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="429.135241 89.9467898 421.634379 102.359163 418.078812 88.0999049 406.033677 83.8965273 416.514008 75.0102036 416.570567 60 426.603335 68.7672082 438.683425 63.6937697 434.403686 77.9985261 441.813033 89.8731723 429.135241 89.9467898"></polyline>
+                <use id="Rectangle-104" mask="url(#mask-6)" stroke-width="8" xlink:href="#path-5"></use>
+                <path d="M332.962845,61.8710616 C332.962845,61.8710616 357.849728,66.5381796 361.645979,61.8710616 C365.583764,57.0299429 356.164954,33.3463514 356.164954,33.3463514" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <ellipse id="Oval-29" stroke-width="4" cx="232.739157" cy="83.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" cx="115.894708" cy="271.768618" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" cx="425.21585" cy="12.2619384" rx="9.73915707" ry="10.2619384"></ellipse>
+                <path d="M276,235.473006 L276,267.824201" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M271.966196,268 L245.899628,268" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <polygon id="Triangle-1" stroke-width="4" points="30 189 54 231 6 231"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(341.000000, 159.000000) rotate(40.000000) translate(-341.000000, -159.000000) " points="341 138 365 180 317 180"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(454.562125, 244.135543) rotate(-75.000000) translate(-454.562125, -244.135543) " points="454.562125 223.135543 478.562125 265.135543 430.562125 265.135543"></polygon>
+                <polygon id="Triangle-2" stroke-width="4" transform="translate(497.500000, 88.000000) rotate(-61.000000) translate(-497.500000, -88.000000) " points="497.5 69 525 107 470 107"></polygon>
+                <ellipse id="Oval-32" stroke-width="4" cx="46" cy="91" rx="16" ry="16"></ellipse>
+                <polygon id="Polygon-1" stroke-width="4" points="125.633865 175 147.983693 191.238101 139.446818 217.511899 111.820911 217.511899 103.284037 191.238101"></polygon>
+                <ellipse id="Oval-37" stroke-width="4" cx="359.5" cy="95" rx="18.5" ry="15"></ellipse>
+                <path d="M223.5,143.5 L269.5,164.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M269.5,164.5 L260.921247,157.285779 L258.429493,162.743907 L269.5,164.5 Z" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M543.5,226.5 L511.5,183.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M508.5,217.5 L546.5,190.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <use id="Rectangle-109" mask="url(#mask-8)" stroke-width="8" xlink:href="#path-7"></use>
+                <use id="Rectangle-103" mask="url(#mask-10)" stroke-width="8" transform="translate(1008.336716, 268.572618) rotate(180.000000) translate(-1008.336716, -268.572618) " xlink:href="#path-9"></use>
+                <use id="Rectangle-103" mask="url(#mask-12)" stroke-width="8" transform="translate(751.062770, 57.370152) rotate(180.000000) translate(-751.062770, -57.370152) " xlink:href="#path-11"></use>
+                <path d="M968.301888,172.572457 C968.301888,172.572457 974.374248,152.562041 981.158216,148.004567 C987.8372,143.517621 1008.69075,145.439196 1008.69075,145.439196" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(988.496317, 158.801322) rotate(180.000000) translate(-988.496317, -158.801322) "></path>
+                <polyline id="Star-1" stroke-width="4" transform="translate(962.662540, 233.220857) rotate(180.000000) translate(-962.662540, -233.220857) " points="960.094161 238.597878 953.448206 239.54971 956.701046 232.749607 953.7011 225.589502 960.298757 227.303832 965.090643 221.926811 965.91538 229.786428 971.876875 233.623352 965.788933 236.766532 964.681453 244.514902 960.094161 238.597878"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(900.459794, 84.711094) rotate(180.000000) translate(-900.459794, -84.711094) " points="897.891415 90.0881143 891.245459 91.0399465 894.498299 84.2398439 891.498353 77.0797384 898.09601 78.7940687 902.887896 73.417048 903.712633 81.276665 909.674128 85.1135889 903.586186 88.2567691 902.478706 96.0051392 897.891415 90.0881143"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(677.883979, 129.932060) rotate(180.000000) translate(-677.883979, -129.932060) " points="675.3156 135.30908 668.669644 136.260913 671.922484 129.46081 668.922538 122.300704 675.520195 124.015035 680.312082 118.638014 681.136818 126.497631 687.098313 130.334555 681.010371 133.477735 679.902891 141.226105 675.3156 135.30908"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(806.715419, 263.140048) rotate(180.000000) translate(-806.715419, -263.140048) " points="809.466498 267.767794 805.507189 274.31963 803.630393 266.792921 797.272403 264.57418 802.804416 259.88356 802.83427 251.960467 808.130038 256.588213 814.506479 253.910213 812.247431 261.460937 816.158434 267.728935 809.466498 267.767794"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(690.076645, 201.820418) rotate(180.000000) translate(-690.076645, -201.820418) " points="695.288531 210.587627 687.787669 223 684.232101 208.740742 672.186967 204.537364 682.667298 195.65104 682.723857 180.640837 692.756625 189.408045 704.836715 184.334607 700.556976 198.639363 707.966323 210.514009 695.288531 210.587627"></polyline>
+                <use id="Rectangle-104" mask="url(#mask-14)" stroke-width="8" transform="translate(871.512282, 261.999983) rotate(180.000000) translate(-871.512282, -261.999983) " xlink:href="#path-13"></use>
+                <path d="M751.391634,247.579374 C751.391634,247.579374 776.278517,252.246492 780.074769,247.579374 C784.012553,242.738255 774.593743,219.054664 774.593743,219.054664" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(766.214395, 234.354156) rotate(180.000000) translate(-766.214395, -234.354156) "></path>
+                <ellipse id="Oval-29" stroke-width="4" transform="translate(881.260843, 199.738062) rotate(180.000000) translate(-881.260843, -199.738062) " cx="881.260843" cy="199.738062" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" transform="translate(998.105292, 11.231382) rotate(180.000000) translate(-998.105292, -11.231382) " cx="998.105292" cy="11.2313819" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" transform="translate(688.784150, 270.738062) rotate(180.000000) translate(-688.784150, -270.738062) " cx="688.78415" cy="270.738062" rx="9.73915707" ry="10.2619384"></ellipse>
+                <path d="M838,15.1757987 L838,47.5269944" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(838.000000, 31.351397) rotate(180.000000) translate(-838.000000, -31.351397) "></path>
+                <path d="M868.100372,15 L842.033804,15" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(855.067088, 15.000000) rotate(180.000000) translate(-855.067088, -15.000000) "></path>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(1084.000000, 73.000000) rotate(180.000000) translate(-1084.000000, -73.000000) " points="1084 52 1108 94 1060 94"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(773.000000, 124.000000) rotate(220.000000) translate(-773.000000, -124.000000) " points="773 103 797 145 749 145"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(659.437875, 38.864457) rotate(105.000000) translate(-659.437875, -38.864457) " points="659.437875 17.8644572 683.437875 59.8644572 635.437875 59.8644572"></polygon>
+                <polygon id="Triangle-2" stroke-width="4" transform="translate(616.500000, 195.000000) rotate(119.000000) translate(-616.500000, -195.000000) " points="616.5 176 644 214 589 214"></polygon>
+                <ellipse id="Oval-32" stroke-width="4" transform="translate(1068.000000, 192.000000) rotate(180.000000) translate(-1068.000000, -192.000000) " cx="1068" cy="192" rx="16" ry="16"></ellipse>
+                <polygon id="Polygon-1" stroke-width="4" transform="translate(988.366135, 84.500000) rotate(180.000000) translate(-988.366135, -84.500000) " points="988.366135 61 1010.71596 77.2381006 1002.17909 103.511899 974.553182 103.511899 966.016307 77.2381006"></polygon>
+                <ellipse id="Oval-37" stroke-width="4" transform="translate(754.500000, 188.000000) rotate(180.000000) translate(-754.500000, -188.000000) " cx="754.5" cy="188" rx="18.5" ry="15"></ellipse>
+                <path d="M844.5,118.5 L890.5,139.5" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(867.500000, 129.000000) rotate(180.000000) translate(-867.500000, -129.000000) "></path>
+                <path id="Line-decoration-1" d="M890.5,139.5 L881.921247,132.285779 L879.429493,137.743907 L890.5,139.5 Z" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M602.5,99.5 L570.5,56.5" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(586.500000, 78.000000) rotate(180.000000) translate(-586.500000, -78.000000) "></path>
+                <path d="M567.5,92.5 L605.5,65.5" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(586.500000, 79.000000) rotate(180.000000) translate(-586.500000, -79.000000) "></path>
+                <use id="Rectangle-109" mask="url(#mask-16)" stroke-width="8" transform="translate(1069.000000, 257.000000) rotate(180.000000) translate(-1069.000000, -257.000000) " xlink:href="#path-15"></use>
+                <ellipse id="Oval-43" stroke-width="4" cx="544" cy="17.5" rx="30" ry="10.5"></ellipse>
+                <path d="M567.5,288.5 L588.5,262.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M589.5,260.5 L623.5,284.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <use id="Rectangle-103" mask="url(#mask-18)" stroke-width="8" xlink:href="#path-17"></use>
+                <use id="Rectangle-103" mask="url(#mask-20)" stroke-width="8" xlink:href="#path-19"></use>
+                <path d="M723.309255,440.969812 C723.309255,440.969812 729.381614,420.959397 736.165583,416.401923 C742.844567,411.914977 763.698112,413.836552 763.698112,413.836552" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <polyline id="Star-1" stroke-width="4" points="766.76908 358.156164 760.123125 359.107996 763.375965 352.307893 760.376019 345.147788 766.973676 346.862118 771.765562 341.485098 772.590299 349.344715 778.551794 353.181638 772.463852 356.324819 771.356372 364.073189 766.76908 358.156164"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="828.971827 506.665927 822.325872 507.617759 825.578711 500.817657 822.578765 493.657551 829.176422 495.371882 833.968309 489.994861 834.793046 497.854478 840.754541 501.691402 834.666599 504.834582 833.559119 512.582952 828.971827 506.665927"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="1051.54764 461.444961 1044.90169 462.396793 1048.15453 455.596691 1045.15458 448.436585 1051.75224 450.150916 1056.54412 444.773895 1057.36886 452.633512 1063.33036 456.470436 1057.24241 459.613616 1056.13493 467.361986 1051.54764 461.444961"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="928.035661 327.487697 924.076352 334.039533 922.199556 326.512824 915.841566 324.294084 921.373579 319.603463 921.403433 311.68037 926.699201 316.308116 933.075642 313.630116 930.816594 321.180841 934.727597 327.448839 928.035661 327.487697"></polyline>
+                <polyline id="Star-1" stroke-width="4" points="1047.13524 392.94679 1039.63438 405.359163 1036.07881 391.099905 1024.03368 386.896527 1034.51401 378.010204 1034.57057 363 1044.60334 371.767208 1056.68343 366.69377 1052.40369 380.998526 1059.81303 392.873172 1047.13524 392.94679"></polyline>
+                <use id="Rectangle-104" mask="url(#mask-22)" stroke-width="8" xlink:href="#path-21"></use>
+                <path d="M950.962845,364.871062 C950.962845,364.871062 975.849728,369.53818 979.645979,364.871062 C983.583764,360.029943 974.164954,336.346351 974.164954,336.346351" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <ellipse id="Oval-29" stroke-width="4" cx="850.739157" cy="386.261938" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" cx="733.894708" cy="574.768618" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" cx="1043.21585" cy="315.261938" rx="9.73915707" ry="10.2619384"></ellipse>
+                <path d="M894,538.473006 L894,570.824201" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M889.966196,571 L863.899628,571" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <polygon id="Triangle-1" stroke-width="4" points="648 492 672 534 624 534"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(959.000000, 462.000000) rotate(40.000000) translate(-959.000000, -462.000000) " points="959 441 983 483 935 483"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(1072.562125, 547.135543) rotate(-75.000000) translate(-1072.562125, -547.135543) " points="1072.56212 526.135543 1096.56212 568.135543 1048.56212 568.135543"></polygon>
+                <polygon id="Triangle-2" stroke-width="4" transform="translate(1115.500000, 391.000000) rotate(-61.000000) translate(-1115.500000, -391.000000) " points="1115.5 372 1143 410 1088 410"></polygon>
+                <ellipse id="Oval-32" stroke-width="4" cx="664" cy="394" rx="16" ry="16"></ellipse>
+                <polygon id="Polygon-1" stroke-width="4" points="743.633865 478 765.983693 494.238101 757.446818 520.511899 729.820911 520.511899 721.284037 494.238101"></polygon>
+                <ellipse id="Oval-37" stroke-width="4" cx="977.5" cy="398" rx="18.5" ry="15"></ellipse>
+                <path d="M841.5,446.5 L887.5,467.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M887.5,467.5 L878.921247,460.285779 L876.429493,465.743907 L887.5,467.5 Z" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M544.548128,523.196339 L587.680791,496.803661" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M587.680791,496.803661 L576.902752,499.881629 L580.034374,504.999533 L587.680791,496.803661 Z" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M1161.5,529.5 L1129.5,486.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M1126.5,520.5 L1164.5,493.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <use id="Rectangle-109" mask="url(#mask-24)" stroke-width="8" xlink:href="#path-23"></use>
+                <use id="Rectangle-103" mask="url(#mask-26)" stroke-width="8" transform="translate(441.336716, 571.572618) rotate(180.000000) translate(-441.336716, -571.572618) " xlink:href="#path-25"></use>
+                <use id="Rectangle-103" mask="url(#mask-28)" stroke-width="8" transform="translate(184.062770, 360.370152) rotate(180.000000) translate(-184.062770, -360.370152) " xlink:href="#path-27"></use>
+                <path d="M401.301888,475.572457 C401.301888,475.572457 407.374248,455.562041 414.158216,451.004567 C420.8372,446.517621 441.690745,448.439196 441.690745,448.439196" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(421.496317, 461.801322) rotate(180.000000) translate(-421.496317, -461.801322) "></path>
+                <polyline id="Star-1" stroke-width="4" transform="translate(395.662540, 536.220857) rotate(180.000000) translate(-395.662540, -536.220857) " points="393.094161 541.597878 386.448206 542.54971 389.701046 535.749607 386.7011 528.589502 393.298757 530.303832 398.090643 524.926811 398.91538 532.786428 404.876875 536.623352 398.788933 539.766532 397.681453 547.514902 393.094161 541.597878"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(333.459794, 387.711094) rotate(180.000000) translate(-333.459794, -387.711094) " points="330.891415 393.088114 324.245459 394.039947 327.498299 387.239844 324.498353 380.079738 331.09601 381.794069 335.887896 376.417048 336.712633 384.276665 342.674128 388.113589 336.586186 391.256769 335.478706 399.005139 330.891415 393.088114"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(110.883979, 432.932060) rotate(180.000000) translate(-110.883979, -432.932060) " points="108.3156 438.30908 101.669644 439.260913 104.922484 432.46081 101.922538 425.300704 108.520195 427.015035 113.312082 421.638014 114.136818 429.497631 120.098313 433.334555 114.010371 436.477735 112.902891 444.226105 108.3156 438.30908"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(239.715419, 566.140048) rotate(180.000000) translate(-239.715419, -566.140048) " points="242.466498 570.767794 238.507189 577.31963 236.630393 569.792921 230.272403 567.57418 235.804416 562.88356 235.83427 554.960467 241.130038 559.588213 247.506479 556.910213 245.247431 564.460937 249.158434 570.728935 242.466498 570.767794"></polyline>
+                <polyline id="Star-1" stroke-width="4" transform="translate(123.076645, 504.820418) rotate(180.000000) translate(-123.076645, -504.820418) " points="128.288531 513.587627 120.787669 526 117.232101 511.740742 105.186967 507.537364 115.667298 498.65104 115.723857 483.640837 125.756625 492.408045 137.836715 487.334607 133.556976 501.639363 140.966323 513.514009 128.288531 513.587627"></polyline>
+                <use id="Rectangle-104" mask="url(#mask-30)" stroke-width="8" transform="translate(304.512282, 564.999983) rotate(180.000000) translate(-304.512282, -564.999983) " xlink:href="#path-29"></use>
+                <path d="M184.391634,550.579374 C184.391634,550.579374 209.278517,555.246492 213.074769,550.579374 C217.012553,545.738255 207.593743,522.054664 207.593743,522.054664" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(199.214395, 537.354156) rotate(180.000000) translate(-199.214395, -537.354156) "></path>
+                <ellipse id="Oval-29" stroke-width="4" transform="translate(314.260843, 502.738062) rotate(180.000000) translate(-314.260843, -502.738062) " cx="314.260843" cy="502.738062" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" transform="translate(431.105292, 314.231382) rotate(180.000000) translate(-431.105292, -314.231382) " cx="431.105292" cy="314.231382" rx="9.73915707" ry="10.2619384"></ellipse>
+                <ellipse id="Oval-29" stroke-width="4" transform="translate(121.784150, 573.738062) rotate(180.000000) translate(-121.784150, -573.738062) " cx="121.78415" cy="573.738062" rx="9.73915707" ry="10.2619384"></ellipse>
+                <path d="M271,318.175799 L271,350.526994" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(271.000000, 334.351397) rotate(180.000000) translate(-271.000000, -334.351397) "></path>
+                <path d="M301.100372,318 L275.033804,318" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(288.067088, 318.000000) rotate(180.000000) translate(-288.067088, -318.000000) "></path>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(517.000000, 376.000000) rotate(180.000000) translate(-517.000000, -376.000000) " points="517 355 541 397 493 397"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(206.000000, 427.000000) rotate(220.000000) translate(-206.000000, -427.000000) " points="206 406 230 448 182 448"></polygon>
+                <polygon id="Triangle-1" stroke-width="4" transform="translate(92.437875, 341.864457) rotate(105.000000) translate(-92.437875, -341.864457) " points="92.4378752 320.864457 116.437875 362.864457 68.4378752 362.864457"></polygon>
+                <polygon id="Triangle-2" stroke-width="4" transform="translate(49.500000, 498.000000) rotate(119.000000) translate(-49.500000, -498.000000) " points="49.5 479 77 517 22 517"></polygon>
+                <ellipse id="Oval-32" stroke-width="4" transform="translate(501.000000, 495.000000) rotate(180.000000) translate(-501.000000, -495.000000) " cx="501" cy="495" rx="16" ry="16"></ellipse>
+                <polygon id="Polygon-1" stroke-width="4" transform="translate(421.366135, 387.500000) rotate(180.000000) translate(-421.366135, -387.500000) " points="421.366135 364 443.715963 380.238101 435.179089 406.511899 407.553182 406.511899 399.016307 380.238101"></polygon>
+                <ellipse id="Oval-37" stroke-width="4" transform="translate(187.500000, 491.000000) rotate(180.000000) translate(-187.500000, -491.000000) " cx="187.5" cy="491" rx="18.5" ry="15"></ellipse>
+                <path d="M277.5,421.5 L323.5,442.5" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(300.500000, 432.000000) rotate(180.000000) translate(-300.500000, -432.000000) "></path>
+                <path id="Line-decoration-1" d="M323.5,442.5 L314.921247,435.285779 L312.429493,440.743907 L323.5,442.5 Z" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M35.5,402.5 L3.5,359.5" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(19.500000, 381.000000) rotate(180.000000) translate(-19.500000, -381.000000) "></path>
+                <path d="M0.5,395.5 L38.5,368.5" id="Line" stroke-width="4" stroke-linecap="square" transform="translate(19.500000, 382.000000) rotate(180.000000) translate(-19.500000, -382.000000) "></path>
+                <use id="Rectangle-109" mask="url(#mask-32)" stroke-width="8" transform="translate(502.000000, 560.000000) rotate(180.000000) translate(-502.000000, -560.000000) " xlink:href="#path-31"></use>
+                <ellipse id="Oval-43" stroke-width="4" cx="589" cy="334.5" rx="30" ry="10.5"></ellipse>
+                <path d="M532.5,459.5 L553.5,433.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M554.5,431.5 L588.5,455.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
             </g>
         </g>
     </g>
