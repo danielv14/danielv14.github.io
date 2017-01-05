@@ -1,6 +1,7 @@
 section.project {
   background-color: $bg-light;
 
+
   .project-hero {
     padding: 20px;
   }
@@ -71,10 +72,19 @@ section.project {
       color: $color-primary;
     }
 
-    p {
+    p, div.heroku-info {
       font-size: 1.9rem;
       line-height: 2.8rem;
       color: $color-fifth;
+    }
+
+    div.heroku-info {
+        margin-left: 10px;
+        border-left: 5px solid $color-primary;
+        background-color: lighten($color-primary, 48%);
+        p {
+          padding: 5px;
+        }
     }
   }
 
@@ -93,6 +103,10 @@ section.project {
 
   section.project .project-hero .btn-back-wrapper {
     padding-bottom: 30px;
+  }
+
+  section.project article div.heroku-info {
+    margin-left: 0px;
   }
 
   section.project .hero-img {
