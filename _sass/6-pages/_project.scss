@@ -1,9 +1,8 @@
 section.project {
-  padding: 20px;
   background-color: $bg-light;
 
-  .btn-back-wrapper, .hero-img-wrapper {
-    padding: 0 20px;
+  .project-hero {
+    padding: 20px;
   }
 
   .tags {
@@ -92,9 +91,6 @@ section.project {
 
 @media screen and (max-width: $screen-sm) {
 
-  section.project {
-    padding: 20px 0;
-  }
   section.project .hero-img {
     max-width: 95%;
   }
