@@ -2,6 +2,10 @@ section.project {
   padding: 20px;
   background-color: $bg-light;
 
+  .btn-back-wrapper, .hero-img-wrapper {
+    padding: 0 20px;
+  }
+
   .tags {
     margin: 1.5rem 0;
   }
@@ -89,7 +93,7 @@ section.project {
 @media screen and (max-width: $screen-sm) {
 
   section.project {
-    padding: 0;
+    padding: 20px 0;
   }
   section.project .hero-img {
     max-width: 95%;
