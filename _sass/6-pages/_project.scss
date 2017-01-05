@@ -91,6 +91,10 @@ section.project {
 
 @media screen and (max-width: $screen-sm) {
 
+  section.project .project-hero .btn-back-wrapper {
+    padding-bottom: 30px;
+  }
+
   section.project .hero-img {
     max-width: 95%;
   }
