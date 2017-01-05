@@ -1,5 +1,4 @@
 ---
-layout: project
 permalink: "/kvitto-appen/"
 title: Kvitto Appen
 desc: Webbapp för att reda ut kvitton och skulder

@@ -1,5 +1,4 @@
 ---
-layout: project
 permalink: "/laraum/"
 title: Laraum
 desc: Webbapp för att skapa och ta del av innehållsrika artiklar

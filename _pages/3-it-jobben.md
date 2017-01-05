@@ -1,5 +1,4 @@
 ---
-layout: project
 permalink: "/it-jobben/"
 title: IT Jobben
 desc: Webbplats som konsumerar Arbetsförmedlingens API för att hitta IT-jobb

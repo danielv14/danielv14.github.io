@@ -1,5 +1,4 @@
 ---
-layout: project
 permalink: "/palettr/"
 title: Palettr
 desc: Skapa och upptäck färgpaletter

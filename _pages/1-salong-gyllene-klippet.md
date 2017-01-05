@@ -1,5 +1,4 @@
 ---
-layout: project
 permalink: "/salong-gyllene-klippet/"
 title: Salong Gyllene Klippet
 desc: Dynamisk webbplats åt en frisörsalong
