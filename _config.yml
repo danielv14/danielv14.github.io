@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github-url: https://github.com/danielv14
 bio: >
-  Jag heter Daniel och gillar att skapa webbplatser och webappar.
+  Jag heter Daniel och gillar att koda, framför allt för webben.
   När jag inte knackar kod eller lyssnar på podcasts om kod
   ser jag gärna en sci-fi film eller senaste avsnittet av en serie.
 
