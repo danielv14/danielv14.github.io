@@ -38,12 +38,13 @@ section.technologies {
   }
 
   // max medium size
-  @media screen and (max-width: $screen-md) {
+  @media screen and (max-width: $screen-lg) {
     h3, ul {
       text-align: center;
     }
     .header-underline {
       margin: 0 auto;
+      width: 10%;
     }
   }
 
@@ -54,6 +55,7 @@ section.technologies {
     }
     .header-underline {
       margin: 0 auto;
+      width: 20%;
     }
     ul {
       font-size: 1.8rem;
