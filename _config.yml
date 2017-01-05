@@ -26,3 +26,4 @@ exclude:
 livereload: true     # You no longer need to include --livereload
 
 include: ['_pages']
+exclude: ['README.md']
