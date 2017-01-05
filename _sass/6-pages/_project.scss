@@ -91,15 +91,21 @@ section.project {
 }
 
 @media screen and (max-width: $screen-sm) {
+
+  section.project {
+    padding: 0;
+  }
   section.project .hero-img {
     max-width: 95%;
   }
-
   section.project .links {
     padding: 0;
   }
   section.project .links a {
     font-size: 3.5rem;
     margin: 0;
+  }
+  section.project article {
+    padding: 2rem 1rem;
   }
 }
