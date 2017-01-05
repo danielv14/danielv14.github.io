@@ -13,11 +13,11 @@ bio: >
 
 # Build settings
 markdown: kramdown
+theme: minima
 sass:
     style: compressed
 gems:
   - jekyll-feed
-  - bootstrap-sass
 exclude:
   - Gemfile
   - Gemfile.lock
