@@ -18,7 +18,7 @@ sass:
     style: compressed
 gems:
   - jekyll-feed
-  - jekyll-bootstrap-sass
+  - bootstrap-sass
 exclude:
   - Gemfile
   - Gemfile.lock

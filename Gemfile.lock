@@ -97,9 +97,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-avatar (0.4.2)
       jekyll (~> 3.0)
-    jekyll-bootstrap-sass (0.1.0)
-      bootstrap-sass (~> 3.3)
-      jekyll (>= 2.5)
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
     jekyll-default-layout (0.1.4)
@@ -210,9 +207,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap-sass (~> 3.3.6)
   github-pages
   jekyll (= 3.3.1)
-  jekyll-bootstrap-sass
   jekyll-feed (~> 0.6)
   jekyll-livereload
   minima (~> 2.0)
