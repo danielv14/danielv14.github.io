@@ -40,4 +40,10 @@ section.about {
     }
   }
 
+  @media screen and (max-width: $screen-sm) {
+    .bio, p {
+      font-size: 2rem;
+    }
+  }
+
 }
