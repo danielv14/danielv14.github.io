@@ -1,5 +1,4 @@
 ---
-permalink: "/it-jobben/"
 title: IT Jobben
 desc: Webbplats som konsumerar Arbetsförmedlingens API för att hitta IT-jobb
 thumbnail: "/assets/img/thumbnails/it-jobben.png"

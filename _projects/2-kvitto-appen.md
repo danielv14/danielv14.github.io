@@ -1,5 +1,4 @@
 ---
-permalink: "/kvitto-appen/"
 title: Kvitto Appen
 desc: Webbapp för att reda ut kvitton och skulder
 thumbnail: "/assets/img/thumbnails/kvitto-appen.png"

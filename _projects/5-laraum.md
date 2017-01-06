@@ -1,5 +1,4 @@
 ---
-permalink: "/laraum/"
 title: Laraum
 desc: Webbapp för att skapa och ta del av innehållsrika artiklar
 thumbnail: "/assets/img/thumbnails/laraum.png"

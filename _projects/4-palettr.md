@@ -1,5 +1,4 @@
 ---
-permalink: "/palettr/"
 title: Palettr
 desc: Skapa och upptäck färgpaletter
 thumbnail: "/assets/img/thumbnails/palettr.png"

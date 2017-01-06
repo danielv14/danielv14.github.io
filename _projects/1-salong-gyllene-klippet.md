@@ -1,5 +1,4 @@
 ---
-permalink: "/salong-gyllene-klippet/"
 title: Salong Gyllene Klippet
 desc: Dynamisk webbplats åt en frisörsalong
 thumbnail: "/assets/img/thumbnails/salong-gyllene-klippet.png"

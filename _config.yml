@@ -28,9 +28,18 @@ livereload: true     # You no longer need to include --livereload
 include: ['_pages']
 exclude: ['README.md']
 
+# Collections, for example portfolio/project items
+collections:
+  projects:
+    output: true
+    permalink: "/portfolio/:title"
+
+
+# Set default attributes
 defaults:
   -
     scope:
-      path: "_pages"
+      path: ""
+      type: "projects"
     values:
       layout: "project"
