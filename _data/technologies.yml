@@ -1,0 +1,25 @@
+webdev:
+  - name: HTML5
+  - name: CSS3 & SASS
+  - name: JavaScript
+  - name: jQuery
+  - name: AngularJS
+  - name: Node
+  - name: Laravel
+  - name: API
+  - name: Ionic & Cordova
+  - name: Vue.js
+  - name: Bootstrap
+  - name: Ruby on Rails
+  - name: PHP
+other:
+  - name: MVC Metodik
+  - name: Sketch
+  - name: Git
+  - name: VPS
+  - name: Python
+  - name: PostgreSQL
+  - name: MySQL
+  - name: NoSQL
+  - name: Gulp
+  - name: Heroku

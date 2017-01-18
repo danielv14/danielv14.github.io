@@ -7,7 +7,7 @@
         <div class="header-underline"></div>
         <ul>
           {% for tech in site.data.technologies.webdev %}
-            <li>{{ tech }}</li>
+            <li>{{ tech.name }}</li>
           {% endfor %}
         </ul>
       </div>
@@ -16,7 +16,7 @@
         <div class="header-underline"></div>
         <ul>
           {% for tech in site.data.technologies.other %}
-            <li>{{ tech }}</li>
+            <li>{{ tech.name }}</li>
           {% endfor %}
         </ul>
       </div>

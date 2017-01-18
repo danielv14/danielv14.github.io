@@ -13,9 +13,9 @@
         <h3>Utbildning</h3>
         <p>Kandidatexamen i Informatik - 2017</p>
         <h3>Axplock av kurser</h3>
-        <p>Människa-dator-interaktion</p>
-        <p>Webbapplikationer för mobila enheter</p>
-        <p>Databasdrivna webbapplikationer med PHP och MVC-ramverk</p>
+        {% for course in site.data.me.courses %}
+          <p>{{course.name}}</p>
+        {% endfor %}
       </div>
     </div>
   </div>
