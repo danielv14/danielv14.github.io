@@ -1,3 +1,4 @@
+# Webdev stack
 webdev:
   - name: HTML5
   - name: CSS3 & SASS
@@ -12,6 +13,7 @@ webdev:
   - name: Bootstrap
   - name: Ruby on Rails
   - name: PHP
+# Other technologies
 other:
   - name: MVC Metodik
   - name: Sketch
