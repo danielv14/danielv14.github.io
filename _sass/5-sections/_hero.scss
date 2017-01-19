@@ -48,7 +48,7 @@ section.hero {
     border-radius: $border-radius-base;
     text-decoration: none;
     transition: all 250ms linear;
-    @include animation-delay(1s);
+    @include animation-delay(1250ms);
 
     &:hover {
       background-color: white;
