@@ -48,7 +48,7 @@ section.hero {
     border-radius: $border-radius-base;
     text-decoration: none;
     transition: background-color, color 300ms linear;
-    transition: transform 300ms cubic-bezier(0.68, -0.1, 0.265, 1.55);
+    transition: transform 300ms $cubic-bezier;
     @include animation-delay(1250ms);
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;    /* Firefox, other Gecko */

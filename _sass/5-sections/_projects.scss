@@ -46,7 +46,7 @@ section.projects {
 @media screen and (min-width: $screen-sm) {
   section.projects {
     .card {
-      transition: transform $card-animation-speed ease-in-out;
+      transition: transform $card-animation-speed $cubic-bezier;
       // Font smoothing on webkit to
       // not get blurry cards while scaling
       -webkit-font-smoothing: antialiased;
