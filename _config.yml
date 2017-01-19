@@ -5,7 +5,6 @@ description: >
   Daniel Vernberg Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielv14.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github-url: https://github.com/danielv14
 
 # Build settings
 markdown: kramdown
