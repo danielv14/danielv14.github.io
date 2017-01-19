@@ -11,10 +11,10 @@
       </div>
       <div class="col-sm-4">
         <h3>Utbildning</h3>
-        <p>Kandidatexamen i Informatik - 2017</p>
+        <p>{{ site.data.me.education }}</p>
         <h3>Axplock av kurser</h3>
         {% for course in site.data.me.courses %}
-          <p>{{course.name}}</p>
+          <p>{{ course.name }}</p>
         {% endfor %}
       </div>
     </div>
