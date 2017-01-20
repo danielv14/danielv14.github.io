@@ -1,7 +1,7 @@
 ---
 title: Laraum
 desc: Webbapp för att skapa och ta del av innehållsrika artiklar
-thumbnail: "/assets/img/thumbnails/laraum.png"
+thumbnail: "/assets/img/projects/thumbnails/laraum.png"
 thumb-layout: right
 image: "/assets/img/projects/laraum.png"
 tech: [Laravel, PHP, Vue.js, PostgreSQL]

@@ -1,7 +1,7 @@
 ---
 title: Palettr
 desc: Skapa och upptäck färgpaletter
-thumbnail: "/assets/img/thumbnails/palettr.png"
+thumbnail: "/assets/img/projects/thumbnails/palettr.png"
 thumb-layout: left
 image: "/assets/img/projects/palettr.png"
 tech: [Laravel, PHP, Vue.js, PostgreSQL]

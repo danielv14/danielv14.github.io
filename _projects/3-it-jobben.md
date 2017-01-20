@@ -1,7 +1,7 @@
 ---
 title: IT Jobben
 desc: Webbplats som konsumerar Arbetsförmedlingens API för att hitta IT-jobb
-thumbnail: "/assets/img/thumbnails/it-jobben.png"
+thumbnail: "/assets/img/projects/thumbnails/it-jobben.png"
 thumb-layout: left
 image: "/assets/img/projects/it-jobben.png"
 tech: [Node, Angular, NoSQL, API]

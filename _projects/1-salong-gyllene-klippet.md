@@ -1,7 +1,7 @@
 ---
 title: Salong Gyllene Klippet
 desc: Dynamisk webbplats åt en frisörsalong
-thumbnail: "/assets/img/thumbnails/salong-gyllene-klippet.png"
+thumbnail: "/assets/img/projects/thumbnails/salong-gyllene-klippet.png"
 thumb-layout: left
 image: "/assets/img/projects/salong-gyllene-klippet.png"
 tech: [Ruby on Rails, PostgreSQL]
