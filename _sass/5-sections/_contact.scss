@@ -38,7 +38,7 @@ section.contact {
   }
 }
 
-@media screen and (max-width: $screen-sm) {
+@include mq-max ($screen-sm) {
   section.contact h2 {
     font-size: 3.5rem !important;
   }

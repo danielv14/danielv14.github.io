@@ -19,7 +19,7 @@ h2 {
 }
 
 
-@media screen and (max-width: $screen-sm) {
+@include mq-max ($screen-sm) {
   span.tag {
     line-height: 3rem;
   }

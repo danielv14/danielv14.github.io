@@ -26,7 +26,7 @@ footer {
   }
 }
 
-@media screen and (max-width: $screen-sm) {
+@include mq-max($screen-sm) {
   footer {
 
     .container {

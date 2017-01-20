@@ -50,7 +50,7 @@
 }
 
 
-@media screen and (max-width: $screen-lg) {
+@include mq-max ($screen-lg) {
   .card {
     img {
       max-width: 300px;
@@ -58,7 +58,7 @@
   }
 }
 
-@media screen and (max-width: $screen-md) {
+@include mq-max ($screen-md) {
   .card {
     text-align: center;
     img {
@@ -69,7 +69,7 @@
 
 }
 
-@media screen and (max-width: $screen-sm) {
+@include mq-max ($screen-sm) {
   .card {
     img {
       max-width: 80%;

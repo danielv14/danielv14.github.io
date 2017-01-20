@@ -12,12 +12,39 @@
     }
 }
 
+// Use media queries like this:
+// @include mq-x($screen-md) {
+//     .wrapper {
+//         padding: 2rem;
+//     }
+// }
+@mixin mq-max($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@mixin mq-min($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
+
+
+
+
+
 // Mixin to delay animations, for example animate.css animations
 @mixin animation-delay($time) {
   -webkit-animation-delay: $time;
   -moz-animation-delay: $time;
   -ms-animation-delay: $time;
 }
+
+
+
+
 
 // Mixin to transform: scale. Used for portfolio CTA
 @mixin scale($width, $height) {

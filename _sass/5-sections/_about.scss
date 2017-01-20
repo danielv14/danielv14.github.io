@@ -34,13 +34,13 @@ section.about {
   }
 
   // Give some space between bio paragraph and education heading on smaller screens
-  @media screen and (max-width: $screen-md) {
+  @include mq-max ($screen-md) {
     p:first-child {
       margin-bottom: 40px;
     }
   }
 
-  @media screen and (max-width: $screen-sm) {
+  @include mq-max ($screen-sm) {
     .bio, p {
       font-size: 2rem;
     }

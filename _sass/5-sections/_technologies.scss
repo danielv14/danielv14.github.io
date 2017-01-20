@@ -38,7 +38,7 @@ section.technologies {
   }
 
   // max medium size
-  @media screen and (max-width: $screen-lg) {
+  @include mq-max ($screen-lg) {
     h3, ul {
       text-align: center;
     }
@@ -49,7 +49,7 @@ section.technologies {
   }
 
   // media query for screens smaller than medium size
-  @media screen and (max-width: $screen-sm) {
+  @include mq-max ($screen-sm) {
     h3 {
       text-align: center;
     }

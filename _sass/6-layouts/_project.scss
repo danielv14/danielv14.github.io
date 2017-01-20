@@ -90,7 +90,7 @@ section.project {
 
 }
 
-@media screen and (max-width: $screen-md) {
+@include mq-max ($screen-md) {
   section.project {
     .hero-img {
       max-width: 85%;
@@ -99,7 +99,7 @@ section.project {
 
 }
 
-@media screen and (max-width: $screen-sm) {
+@include mq-max ($screen-sm) {
 
   section.project .project-hero .btn-back-wrapper {
     padding-bottom: 30px;

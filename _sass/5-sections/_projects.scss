@@ -43,7 +43,7 @@ section.projects {
 
 }
 
-@media screen and (min-width: $screen-sm) {
+@include mq-min ($screen-sm) {
   section.projects {
     .card {
       transition: transform $card-animation-speed $cubic-bezier;

@@ -65,7 +65,7 @@ section.hero {
     }
   }
 
-  @media screen and (max-width: $screen-sm) {
+  @include mq-max ($screen-sm) {
     h1 {
       font-size: 3rem;
       padding: 1rem;
