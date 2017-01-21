@@ -7,6 +7,7 @@ image: "/assets/img/projects/palettr.png"
 tech: [Laravel, PHP, Vue.js, PostgreSQL]
 github: https://github.com/danielv14/Palettr
 website: http://palettr.herokuapp.com/
+order: 4
 ---
 Palettr är en webbplats skapad med PHP-ramverket [Laravel](https://laravel.com/). På Palettr kan besökare inspireras av färgpaletter, gilla färgpaletter se de allra ta del av de färgpaletter som har gillats mest. Om man skapar ett konto på Palettr kan man dessutom skapa egna färgpaletter som andra besökare kan ta del av och gilla om de så vill.
 

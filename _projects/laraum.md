@@ -7,6 +7,7 @@ image: "/assets/img/projects/laraum.png"
 tech: [Laravel, PHP, Vue.js, PostgreSQL]
 github: https://github.com/danielv14/Laraum
 in-progress: true
+order: 5
 ---
 Laraum är en webbplats skapad med PHP-ramverket [Laravel](https://laravel.com/) och som är inspirerad av webbplatsen [Medium](https://medium.com/) där man kan skapa och konsumera artiklar. Laraum är dock fortfarande under utveckling och utvecklingen fick ta en paus undertiden som ett examensarbete genomfördes. På Laraum kan besökare läsa och gilla artiklar och även skapa egna artiklar och skapa bokmärken för andra artiklar om de registrerar sig.
 

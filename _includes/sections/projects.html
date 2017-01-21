@@ -2,7 +2,10 @@
 
   <div class="container">
     <h3 id="portfolio" class="text-center">Portfolio</h3>
-    {% for portfolio in site.projects %}
+    <!-- Assign sorted order for portfolio projects -->
+    {% assign sorted_portfolio = site.projects | sort:"order" %}
+    <!-- loop through sorted portfolio items -->
+    {% for portfolio in sorted_portfolio %}
       {% if portfolio.title %}
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
