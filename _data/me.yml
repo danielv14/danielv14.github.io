@@ -7,11 +7,11 @@ courses:
   - name: Databasdrivna webbapplikationer med PHP och MVC-ramverk
 # Small bio to display in about-me section
 bio: >
-  Daniel heter jag och har en utbildning i informatik samt gillar att koda, framför allt för webben.
+  Daniel heter jag och har en utbildning i informatik och gillar att koda, framför allt för webben.
   När jag inte knackar kod eller lyssnar på podcasts om kod eller teknik i allmänhet
   ser jag gärna en sci-fi film eller senaste avsnittet av en serie.
 
 # Site tagline
-tagline: Nyutexaminerad kodknackare <br> med intresse för webben
+tagline: Nyutexaminerad kodknackare <br> med fokus på webben
 # Full URL to github profile
 github-url: https://github.com/danielv14
