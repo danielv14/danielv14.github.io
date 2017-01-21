@@ -42,13 +42,10 @@
   -ms-animation-delay: $time;
 }
 
-
-
-
-
-// Mixin to transform: scale. Used for portfolio CTA
-@mixin scale($width, $height) {
-  -ms-transform: scale($width, $height);
-  -webkit-transform: scale($width, $height);
-  transform: scale($width, $height);
+// Mixin to add transitions. Used for example on CTA portfolio button
+@mixin cta-transitions ($time) {
+  transition:
+    padding $time $cubic-bezier,
+    background-color $time ease-in-out,
+    color $time ease-in-out;
 }

@@ -24,12 +24,13 @@ section.project {
     padding: 1rem 2rem;
     text-decoration: none;
     border-radius: $border-radius-base;
-    transition: all 250ms linear;
+    @include cta-transitions(250ms);
     border: 5px solid $color-primary;
 
     &:hover {
       color: white;
       background-color: $color-primary;
+      padding: 1rem 3rem;
     }
   }
 
