@@ -4,7 +4,7 @@ desc: Dynamisk webbplats åt en frisörsalong
 thumbnail: "/assets/img/projects/thumbnails/salong-gyllene-klippet.png"
 thumb-layout: left
 image: "/assets/img/projects/salong-gyllene-klippet.png"
-tech: [Ruby on Rails, PostgreSQL]
+tags: [Ruby on Rails, PostgreSQL]
 website: http://www.salonggylleneklippet.se/
 order: 1
 ---

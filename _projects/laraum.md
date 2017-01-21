@@ -4,7 +4,7 @@ desc: Webbapp för att skapa och ta del av innehållsrika artiklar
 thumbnail: "/assets/img/projects/thumbnails/laraum.png"
 thumb-layout: right
 image: "/assets/img/projects/laraum.png"
-tech: [Laravel, PHP, Vue.js, PostgreSQL]
+tags: [Laravel, PHP, Vue.js, PostgreSQL]
 github: https://github.com/danielv14/Laraum
 in-progress: true
 order: 5

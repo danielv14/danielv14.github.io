@@ -4,7 +4,7 @@ desc: Webbplats som konsumerar Arbetsförmedlingens API för att hitta IT-jobb
 thumbnail: "/assets/img/projects/thumbnails/it-jobben.png"
 thumb-layout: left
 image: "/assets/img/projects/it-jobben.png"
-tech: [Node, Angular, NoSQL, API]
+tags: [Node, Angular, NoSQL, API]
 github: https://github.com/danielv14/IT-Jobben
 website: http://itjobben.herokuapp.com/
 order: 3
