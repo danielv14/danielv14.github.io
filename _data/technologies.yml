@@ -8,7 +8,7 @@ webdev:
   - name: Node
   - name: Laravel
   - name: API
-  - name: Ionic & Cordova
+  - name: Ionic &amp; Cordova
   - name: Vue.js
   - name: Bootstrap
   - name: Ruby on Rails
