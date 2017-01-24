@@ -32,6 +32,9 @@ section.projects {
     color: $color-sitxh;
     text-decoration: none;
     border-bottom: 4px solid $color-sitxh;
+    transition:
+      color 100ms linear,
+      border-bottom 100ms linear;
 
     &:hover {
       text-decoration: none;
