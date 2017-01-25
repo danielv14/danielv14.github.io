@@ -6,7 +6,7 @@ section.technologies {
     padding-bottom: calc(#{$padding-sections} + 3rem);
   }
 
-  h2, h3 {
+  h2, h3, p, ul {
     color: white;
   }
 
@@ -20,6 +20,10 @@ section.technologies {
     margin-bottom: 5px;
   }
 
+  p {
+    font-size: 2rem;
+  }
+
   .header-underline {
     height: 5px;
     width: 15%;
@@ -30,7 +34,6 @@ section.technologies {
   ul {
     padding-top: 20px;
     columns: 2;
-    color: white;
     list-style: none;
     padding-left: 0;
     font-size: 2.2rem;
