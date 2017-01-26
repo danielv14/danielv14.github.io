@@ -9,7 +9,7 @@
       {% if portfolio.title %}
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
-            <div class="card">
+            <div id="{{ portfolio.title | slugify }}" class="card">
               <div class="row">
                 <!-- Check what thumb-layout portfolio has -->
                 {% if portfolio.thumb-layout == "right" %}
