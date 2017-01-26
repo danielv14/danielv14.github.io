@@ -13,9 +13,11 @@
         <h3>Utbildning</h3>
         <p>{{ site.data.me.education }}</p>
         <h3>Axplock av kurser</h3>
-        {% for course in site.data.me.courses %}
-          <p>{{ course.name }}</p>
-        {% endfor %}
+        <ul>
+          {% for course in site.data.me.courses %}
+            <li>{{ course.name }}</li>
+          {% endfor %}
+        </ul>    
       </div>
     </div>
   </div>

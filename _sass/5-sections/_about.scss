@@ -28,9 +28,18 @@ section.about {
     font-size: 2.5rem;
   }
 
-  p {
+  p, li {
     color: $color-primary;
     font-size: 2.2rem;
+  }
+
+  ul {
+    padding-left: 0px;
+    list-style: none;
+  }
+
+  li:before {
+    content: '- ';
   }
 
   // Give some space between bio paragraph and education heading on smaller screens
