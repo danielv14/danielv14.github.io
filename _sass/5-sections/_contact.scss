@@ -4,7 +4,7 @@ section.contact {
   height: 50vh;
 
   .overlay {
-    background-color: transparentize($color-primary, 0.1);
+    background-color: transparentize($bg-contact-section, 0.1);
     height: 100%;
   }
 

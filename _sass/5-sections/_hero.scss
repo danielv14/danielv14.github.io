@@ -5,7 +5,7 @@ section.hero {
   height: 80vh;
 
   .overlay {
-    background-color: transparentize($color-primary, 0.2);
+    background-color: transparentize($bg-hero-section, 0.2);
     height: 100%;
 
     .container {
