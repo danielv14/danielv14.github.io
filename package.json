@@ -23,7 +23,9 @@
   "homepage": "https://github.com/danielv14/danielv14.github.io#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
     "gulp-image": "^2.7.3",
-    "gulp-shell": "^0.5.2"
+    "gulp-shell": "^0.5.2",
+    "gulp-sourcemaps": "^2.4.0"
   }
 }
