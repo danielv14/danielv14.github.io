@@ -13,6 +13,8 @@ webdev:
   - name: Bootstrap
   - name: Ruby on Rails
   - name: PHP
+  - name: Gulp
+
 # Other technologies
 other:
   - name: MVC Metodik
@@ -23,5 +25,4 @@ other:
   - name: PostgreSQL
   - name: MySQL
   - name: NoSQL
-  - name: Gulp
   - name: Heroku
