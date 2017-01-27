@@ -3,7 +3,7 @@ require 'fileutils'
 ########################################################################
 # Create new portfolio items
 ########################################################################
-desc "Creating a new portfolio item"
+desc "Create a new portfolio item"
 task :project do
 
   puts "What's the name of the portfolio project?"
@@ -36,7 +36,6 @@ task :project do
     file.puts "tags: #{@tagsArray}"
     file.puts "---"
   end
-
   puts "Portfolio project created. Extend the front matter with tags, images and such"
 end
 
@@ -49,7 +48,7 @@ end
 # namespace for drafts
 namespace :draft do
   # Create new draft
-  desc "Creating a new draft for post/entry"
+  desc "Create a new draft for post/entry"
   task :new do
     puts "What's the name for your next post?"
     @name = STDIN.gets.chomp
@@ -83,7 +82,7 @@ namespace :draft do
     puts "what's the name of the draft to post?"
     @post_name = STDIN.gets.chomp
     @post_date = Time.now.strftime("%F") # set post date from NOW
-    
+
     # Move file from _drafts/ to _posts/ with correct naming convention for jekyll
     FileUtils.mv("_drafts/#{@post_name}", "_posts/#{@post_name}")
     FileUtils.mv("_posts/#{@post_name}", "_posts/#{@post_date}-#{@post_name}")
