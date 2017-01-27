@@ -31,7 +31,7 @@ task :project do
     file.puts "---"
     file.puts "title: #{@name}"
     file.puts "desc: #{@desc}"
-    file.puts "thumb-layout: #{@layout}"
+    file.puts "card-layout: #{@layout}"
     file.puts "order: #{@order}"
     file.puts "tags: [some, tags]"
     file.puts "github: optional github repo link"

@@ -2,7 +2,7 @@
 title: Kvitto Appen
 desc: Webbapp för att reda ut kvitton och skulder
 thumbnail: "/assets/img/projects/thumbnails/kvitto-appen.png"
-thumb-layout: right
+card-layout: right
 image: "/assets/img/projects/kvitto-appen.png"
 tags: [Ionic, Angular, NoSQL]
 github: https://github.com/danielv14/Kvitto-Appen

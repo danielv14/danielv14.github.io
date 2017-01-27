@@ -1,11 +1,11 @@
 <!-- Card template for portfolio items -->
 <!-- Different left or right layout depending on the front matter -->
-<div class="col-md-6 {% if portfolio.thumb-layout == 'right' %}col-md-push-6{% endif %}">
+<div class="col-md-6 {% if portfolio.card-layout == 'right' %}col-md-push-6{% endif %}">
   <a href="{{ portfolio.url | relative_url }}">
     <img class="text-center" src="{{ portfolio.thumbnail }}" alt="Bild på {{ portfolio.title }}">
   </a>
 </div>
-<div class="col-md-6 {% if portfolio.thumb-layout == 'right' %}col-md-pull-6{% endif %}">
+<div class="col-md-6 {% if portfolio.card-layout == 'right' %}col-md-pull-6{% endif %}">
   <a class="title-link" href="{{ portfolio.url | relative_url }}">{{ portfolio.title | escape }}</a>
   <p>{{ portfolio.desc }}</p>
   {% for tag in portfolio.tags %}
