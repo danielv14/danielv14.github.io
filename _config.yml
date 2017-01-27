@@ -20,7 +20,11 @@ exclude:
 livereload: true     # You no longer need to include --livereload
 
 include: ['_pages']
-exclude: ['README.md', 'Rakefile']
+exclude: ['README.md',
+          'Rakefile',
+          'package.json',
+          'node_modules',
+          'gulpfile.js']
 
 # Collections, for example portfolio/project items
 collections:
