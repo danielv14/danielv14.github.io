@@ -2,7 +2,10 @@
   <div class="container">
     <div class="footer-content col-md-10 col-md-offset-1">
       <h2>© Daniel Vernberg {{ 'now' | date: "%Y" }}</h2>
-      <a target="_blank" href="{{site.data.me.github-url}}"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <span>
+        <a target="_blank" href="{{site.data.me.github-url}}"><i class="fa fa-github" aria-hidden="true"></i></a>
+        <a target="_blank" href="mailto:{{site.data.email}}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+      </span>
     </div>
   </div>
 </footer>
