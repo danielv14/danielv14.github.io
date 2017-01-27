@@ -48,9 +48,14 @@ section.project {
       font-size: 5rem;
       padding: 2rem;
       color: $color-fifth;
+      transition:
+        transform 200ms $cubic-bezier,
+        color 200ms ease-in-out;
+
 
       &:hover {
         color: lighten($color-fifth, 15%);
+        transform: scale(1.3);
       }
     }
   }
