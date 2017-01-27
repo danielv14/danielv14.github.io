@@ -9,16 +9,22 @@ const paths = {
   'img': {
     'base': 'assets/img/*'
   },
-  'js': ['assets/javascript/jquery-3.1.1.min.js', 'assets/javascript/main.js']
+  'js': {
+    'src': [
+      '_scripts/jquery-3.1.1.min.js',
+      '_scripts/main.js'
+    ],
+    'dest': './assets/javascript/'
+  }
 };
 
 // Concat .js files and create sourcemaps
 gulp.task('scripts:concat', function() {
-  return gulp.src(paths.js)
+  return gulp.src(paths.js.src)
   .pipe(sourcemaps.init())
     .pipe(concat('app.js'))
   .pipe(sourcemaps.write())
-  .pipe(gulp.dest('./assets/javascript/'));
+  .pipe(gulp.dest(paths.js.dest));
 });
 
 // Task to compress all images inside asset folder
@@ -42,7 +48,7 @@ gulp.task('serve:drafts', shell.task([
 // Gulp watching
 gulp.task('watch', () => {
   // concat js files
-  gulp.watch(paths.js, ['scripts:concat']);
+  gulp.watch(paths.js.src, ['scripts:concat']);
 
 });
 
