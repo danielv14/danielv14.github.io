@@ -36,8 +36,8 @@ section.project {
     margin-bottom: 3rem;
   }
   .hero-img {
-    max-width: 980px;
-    max-height: 500px;
+    max-width: 70vw;
+    max-height: 70vh;
     @include hdpi-image-query;
   }
 
