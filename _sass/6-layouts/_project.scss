@@ -66,6 +66,15 @@ section.project {
     padding: 2.5rem 3rem;
     margin-bottom: 3rem;
 
+    blockquote {
+      border-left: 5px solid $color-primary;
+      background-color: lighten($color-primary, 48%);
+    }
+
+    img.smaller {
+      max-height: 600px;
+    }
+
     h2.title {
       margin-bottom: 20px;
     }
