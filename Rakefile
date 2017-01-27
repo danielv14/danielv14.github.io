@@ -1,6 +1,8 @@
 require 'fileutils'
 
+########################################################################
 # Create new portfolio items
+########################################################################
 desc "Creating a new portfolio item"
 task :project do
 
@@ -38,16 +40,28 @@ task :project do
   puts "Portfolio project created. Extend the front matter with tags, images and such"
 end
 
-# http://albertogrespan.com/blog/rake-tasks-and-jekyll-posts/
+########################################################################
+# Handle drafts
+# Commands for creating drafts and publish them to _post folder
+#  http://albertogrespan.com/blog/rake-tasks-and-jekyll-posts/
+########################################################################
+
+# namespace for drafts
 namespace :draft do
+  # Create new draft
   desc "Creating a new draft for post/entry"
   task :new do
     puts "What's the name for your next post?"
     @name = STDIN.gets.chomp
+
+    # slugify the input
     @slug = "#{@name}"
     @slug = @slug.tr('ÁáÉéÍíÓóÚú', 'AaEeIiOoUu')
     @slug = @slug.downcase.strip.gsub(' ', '-')
+
+    # Create file in _draft folder
     FileUtils.touch("_drafts/#{@slug}.md")
+    # Open newly created file and add front matter
     open("_drafts/#{@slug}.md", 'a' ) do |file|
       file.puts "---"
       file.puts "layout: post"
@@ -56,16 +70,21 @@ namespace :draft do
     end
   end
 
-  desc "copy draft to production post!"
+  # move a draft file to _post folder
+  desc "move draft to production post!"
   task :ready do
+    # loop though drafts in draft folder and display to the user
     puts "Posts in _drafts:"
     Dir.foreach("_drafts") do |fname|
       next if fname == '.' or fname == '..' or fname == '.keep'
       puts fname
     end
+
     puts "what's the name of the draft to post?"
     @post_name = STDIN.gets.chomp
-    @post_date = Time.now.strftime("%F")
+    @post_date = Time.now.strftime("%F") # set post date from NOW
+    
+    # Move file from _drafts/ to _posts/ with correct naming convention for jekyll
     FileUtils.mv("_drafts/#{@post_name}", "_posts/#{@post_name}")
     FileUtils.mv("_posts/#{@post_name}", "_posts/#{@post_date}-#{@post_name}")
     puts "Post copied and ready to deploy!"
