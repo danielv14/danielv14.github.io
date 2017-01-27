@@ -44,7 +44,6 @@ gulp.task('serve:drafts', shell.task([
   "bundle exec jekyll serve --incremental --drafts"
 ]));
 
-
 // Gulp watching
 gulp.task('watch', () => {
   // concat js files
