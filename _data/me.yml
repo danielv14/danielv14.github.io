@@ -1,11 +1,13 @@
 # Education
 education: Kandidatexamen i Informatik - 2017
+
 # Example courses to display in about-me section
 courses:
   - name: Människa-dator-interaktion
   - name: Webbapplikationer för mobila enheter
   - name: Databasdrivna webbapplikationer med PHP och MVC-ramverk
   - name: Agil systemutveckling
+
 # Small bio to display in about-me section
 bio: >
   Daniel heter jag och har en Kandidatexamen i informatik samt gillar att koda, framför allt för webben.
@@ -14,5 +16,6 @@ bio: >
 
 # Site tagline
 tagline: Nyutexaminerad kodknackare <br> med fokus på webben
+
 # Full URL to github profile
 github-url: https://github.com/danielv14
