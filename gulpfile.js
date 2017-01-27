@@ -19,7 +19,7 @@ const paths = {
 };
 
 // Concat .js files and create sourcemaps
-gulp.task('scripts:concat', function() {
+gulp.task('scripts:concat', () => {
   return gulp.src(paths.js.src)
   .pipe(sourcemaps.init())
     .pipe(concat('app.js'))
