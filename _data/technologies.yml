@@ -8,6 +8,7 @@ webdev:
   - name: Node
   - name: Laravel
   - name: API
+  - name: Heroku
   - name: Ionic &amp; Cordova
   - name: Vue.js
   - name: Bootstrap
@@ -25,4 +26,5 @@ other:
   - name: PostgreSQL
   - name: MySQL
   - name: NoSQL
-  - name: Heroku
+  - name: Bash
+  - name: Ruby
