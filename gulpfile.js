@@ -3,6 +3,8 @@ const image = require('gulp-image');
 const shell = require('gulp-shell');
 const concat = require('gulp-concat');
 const sourcemaps = require('gulp-sourcemaps');
+const minify = require('gulp-minify');
+
 
 // Path object containing asset paths
 const paths = {
@@ -23,6 +25,7 @@ gulp.task('scripts:concat', () => {
   return gulp.src(paths.js.src)
   .pipe(sourcemaps.init())
     .pipe(concat('app.js'))
+    .pipe(minify())
   .pipe(sourcemaps.write())
   .pipe(gulp.dest(paths.js.dest));
 });
