@@ -44,7 +44,7 @@ section.about {
 
   // Give some space between bio paragraph and education heading on smaller screens
   @include mq-max ($screen-md) {
-    p:first-child {
+    p:last-child {
       margin-bottom: 40px;
     }
   }
