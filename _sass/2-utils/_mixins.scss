@@ -32,11 +32,11 @@
 
 
 // font mixins
-@mixin font-lato() {
+@mixin font-text() {
   font-family: 'Lato', sans-serif;
 }
 
-@mixin font-montserrat() {
+@mixin font-headings() {
   font-family: 'Montserrat', sans-serif;
 }
 
