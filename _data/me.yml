@@ -1,5 +1,8 @@
 # Education
-education: Kandidatexamen i Informatik - 2017
+education: >
+  Kandidatexamen i Informatik - Beräknad 2017.
+  <br>
+  Mitt examensarbete handlade om hur webbdesign påverkar konsumenters upplevda tillit gentemot e-handelsplatser
 # Example courses to display in about-me section
 courses:
   - name: Människa-dator-interaktion
@@ -17,6 +20,6 @@ bio:
     ser jag gärna en sci-fi film. Det händer också att jag funderar på ett aktuellt programmeringsproblem
     under en promenad i naturen.
 # Site tagline
-tagline: Nyutexaminerad utvecklare <br> med fokus på webben
+tagline: Utvecklare <br> med fokus på webben
 # Full URL to github profile
 github-url: https://github.com/danielv14
