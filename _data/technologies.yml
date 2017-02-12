@@ -20,6 +20,7 @@ webdev:
 other:
   - name: MVC Metodik
   - name: Sketch
+  - name: Wordpress
   - name: Git
   - name: VPS
   - name: Python
