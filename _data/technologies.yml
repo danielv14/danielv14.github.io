@@ -1,7 +1,8 @@
 # Webdev stack
 webdev:
   - name: HTML5
-  - name: CSS3 & Sass
+  - name: CSS3
+  - name: SASS & LESS
   - name: JavaScript
   - name: jQuery
   - name: AngularJS
