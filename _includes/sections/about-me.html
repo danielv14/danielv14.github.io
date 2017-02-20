@@ -14,7 +14,11 @@
       </div>
       <div class="col-md-4">
         <h3>Utbildning</h3>
-        <p>{{ site.data.me.education }}</p>
+        <ul>
+          {% for education in site.data.me.education %}
+            <li>{{ education.item }}</li>
+          {% endfor %}
+        </ul>
         <h3>Axplock av kurser</h3>
         <ul>
           {% for course in site.data.me.courses %}

@@ -1,8 +1,10 @@
 # Education
-education: >
-  Kandidatexamen i Informatik - Beräknad 2017.
-  <br>
-  Mitt examensarbete handlade om hur webbdesign påverkar konsumenters upplevda tillit gentemot e-handelsplatser
+education:
+  - item: >
+      Kandidatexamen i informatik, beräknad 2017. Examensarbete om hur
+      webbdesign påverkar konsumenters upplevda tillit gentemot e-handelsplatser.
+  - item: Högskoleexamen i informatik 2017.
+
 # Example courses to display in about-me section
 courses:
   - name: Människa-dator-interaktion
