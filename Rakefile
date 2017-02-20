@@ -36,8 +36,8 @@ task :project do
     file.puts "tags: [some, tags]"
     file.puts "github: optional github repo link"
     file.puts "website: optional website link"
-    file.puts "thumbnail: path/to/thumbnail/image.png"
-    file.puts "image: path/to/image.png"
+    file.puts "thumbnail: /assets/img/projects/thumbnails/#{@slug}.png"
+    file.puts "image: /assets/img/projects/#{@slug}.png"
     file.puts "---"
   end
   puts "Portfolio project created. Extend the front matter with tags, images and such"
