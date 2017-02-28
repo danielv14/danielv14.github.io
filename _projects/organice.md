@@ -12,6 +12,7 @@ Organice är ett designkoncept för en mobil applikation skapad under en [kurs](
 
 > Bilden ovan demonstrerar hur en användare skulle kunna interagera med applikationen
 
+## Syfte
 Tanken med Organice var att det skulle vara en applikation som hjälper användare att organisera, kategorisera och söka i sina förrådsutrymmen. Folosofin bakom applikationens struktur och hur objekt kan sparas i applikationen återspeglar hur många individers förråd ser ut. Man kanske har ett förrådsrum, i det förrådet finns lösa objekt men även kartonger med objekt i. Organice återspeglar denna struktur och låter användaren skapa förrådsrum, "lägga" lösa objekt i förrådsrummen men även kartonger med objekt i. Lådor och objekt kan kategoriseras med hjälp av taggar, beskrivningar kan skrivas och bilder kan laddas upp. Allt för att användaren enkelt ska kunna organisera och hitta igen sina förrådssaker.
 
 ## Demo
