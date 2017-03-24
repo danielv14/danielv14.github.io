@@ -9,27 +9,9 @@ section.project {
     margin: 1.5rem 0;
   }
 
-  .btn-back-wrapper {
+  .button-back-wrapper {
     margin-bottom: 3rem;
     margin-top: 2%;
-  }
-
-  .btn-back {
-    margin-left: 2%;
-    padding: 1rem 2rem;
-    font-size: 2.5rem;
-    color: $color-primary;
-    padding: 1rem 2rem;
-    text-decoration: none;
-    border-radius: $border-radius-base;
-    @include cta-transitions(250ms);
-    border: 5px solid $color-primary;
-
-    &:hover {
-      color: white;
-      background-color: $color-primary;
-      padding: 1rem 3rem;
-    }
   }
 
   .hero-img {

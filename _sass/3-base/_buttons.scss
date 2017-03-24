@@ -1,0 +1,47 @@
+// General button styling
+.button {
+  @include font-headings();
+  color: white;
+  border: 3px solid white;
+  border-radius: $border-radius-base;
+  text-decoration: none;
+  background-color: transparent;
+  @include cta-transitions(200ms);
+  @include animation-delay(1250ms);
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */
+
+  &:hover {
+    background-color: white;
+    color: $color-primary;
+    padding: 0.9rem 4rem;
+  }
+
+  // Target font-awesome childs
+  > i {
+    font-size: 0.8em;
+  }
+}
+
+// Styling for button on homepage hero
+.button-hero {
+  font-size: 2.4rem;
+  padding: 0.9rem 2.2rem;
+}
+
+// Styling for back button on portfolio layout page
+.button-portfolio-back {
+  margin-left: 2%;
+  padding: 1rem 2rem;
+  font-size: 2.5rem;
+  color: $color-primary;
+  padding: 1rem 2rem;
+  border: 5px solid $color-primary;
+
+  &:hover {
+    color: white;
+    background-color: $color-primary;
+    padding: 1rem 3rem;
+  }
+}

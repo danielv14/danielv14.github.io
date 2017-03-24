@@ -39,32 +39,6 @@ section.hero {
     @include animation-delay(500ms);
   }
 
-  button {
-    font-family: 'Montserrat', sans-serif;
-    color: white;
-    font-size: 2.4rem;
-    padding: 0.9rem 2.2rem;
-    border: 3px solid white;
-    border-radius: $border-radius-base;
-    text-decoration: none;
-    background-color: transparent;
-    @include cta-transitions(200ms);
-    @include animation-delay(1250ms);
-    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-    box-sizing: border-box;         /* Opera/IE 8+ */
-
-    &:hover {
-      background-color: white;
-      color: $color-primary;
-      padding: 0.9rem 4rem;
-    }
-
-    > i {
-      font-size: 0.8em;
-    }
-  }
-
   @include mq-max ($screen-sm) {
     h1 {
       font-size: 3rem;
