@@ -56,3 +56,8 @@
     background-color $time ease-in-out,
     color $time ease-in-out;
 }
+
+
+@mixin blockquote-bg() {
+  background-color: lighten($color-primary, 45%);
+}

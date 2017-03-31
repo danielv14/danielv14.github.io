@@ -15,6 +15,6 @@ code {
   color: $color-third;
 }
 
-p, a, ul {
+p, a, ul, .date {
   @include font-text;
 }
