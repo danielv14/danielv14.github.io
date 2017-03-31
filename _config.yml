@@ -31,6 +31,9 @@ collections:
   projects:
     output: true
     permalink: "/portfolio/:title"
+  posts:
+    output: true
+    permalink: "artikel/:title"
 
 
 # Set default attributes

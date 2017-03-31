@@ -1,0 +1,42 @@
+section.blogposts {
+  background-color: $color-secondary;
+  min-height: 500px;
+
+  .container {
+    padding-top: $padding-sections;
+    padding-bottom: $padding-sections;
+  }
+
+  h2 {
+    color: white;
+    font-size: 4.2rem;
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+
+
+  .blogposts {
+    margin: 1.5rem 0;
+
+    .blogpost {
+      padding: 0.6rem 0;
+      &:last-child {
+        margin-bottom: 2.4rem;
+      }
+
+      .date {
+        font-size: 1em;
+        color: lighten($color-secondary, 20%);
+      }
+
+      a {
+        color: white;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+    }
+  }
+
+}

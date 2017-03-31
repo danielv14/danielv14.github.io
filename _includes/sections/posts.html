@@ -1,0 +1,16 @@
+<section class="blogposts">
+  <div class="container text-center">
+    <div class="col-md-10 col-md-offset-1">
+      <h2 id="artiklar">Det händer att jag skriver inlägg</h2>
+      <div class="blogposts">
+        {% for post in site.posts limit:3 %}
+          <div class="blogpost">
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <span class="date">{{ post.date | date: "%d-%m-%Y" }}</span>
+          </div>
+        {% endfor %}
+      </div>
+      <a href="/artiklar" class="button button-blogposts">Alla inlägg</a>
+    </div>
+  </div>
+</section>
