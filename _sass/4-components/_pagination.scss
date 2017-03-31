@@ -1,0 +1,12 @@
+.pagination {
+  font-size: 2rem;
+
+  .previous, .next {
+    padding: 10px;
+    color: $color-primary;
+    &:hover {
+      text-decoration: none;
+      color: lighten($color-primary, 10%);
+    }
+  }
+}
