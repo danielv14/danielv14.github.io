@@ -2,9 +2,13 @@
 pre {
   border: none;
   font-size: 1.4rem;
-
+  overflow-x: auto;
   border-radius: 0;
+}
 
+pre code {
+    overflow-wrap: normal;
+    white-space: pre;
 }
 
 .highlight {
