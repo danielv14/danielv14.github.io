@@ -39,4 +39,13 @@ section.blogposts {
     }
   }
 
+  .blinking-cursor {
+    color: white;
+    -webkit-animation: 1.5s blink step-end infinite;
+    -moz-animation: 1.5s blink step-end infinite;
+    -ms-animation: 1.5s blink step-end infinite;
+    -o-animation: 1.5s blink step-end infinite;
+    animation: 1.5s blink step-end infinite;
+  }
+
 }
