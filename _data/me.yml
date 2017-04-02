@@ -1,8 +1,7 @@
 # Education
 education:
   - item: >
-      Kandidatexamen i informatik, beräknad 2017. Examensarbete om hur
-      webbdesign påverkar konsumenters upplevda tillit gentemot e-handelsplatser.
+      Kandidatexamen i informatik, beräknad 2017.
   - item: Högskoleexamen i informatik 2017.
 
 # Example courses to display in about-me section
@@ -14,13 +13,12 @@ courses:
 # Small bio to display in about-me section
 bio:
   firstSection: >
-    Daniel heter jag och har en utbildning i informatik samt gillar att koda, framför allt för webben.
-    Något jag eftersträvar samt uppskattar är läsbar och återanvändbar kod
-    samt ett fokus på UX för att skapa användarvänliga upplevelser.
+    Daniel heter jag och  gillar att koda, framför allt för webben.
+    Jag brinner för att att skapa bland annat användarvänliga webbplatser och webbappar med olika moderna teknologier.
   lastSection: >
-    När jag inte knackar kod, lyssnar på podcasts om kod eller teknik i allmänhet
-    ser jag gärna en sci-fi film. Det händer också att jag funderar på ett aktuellt programmeringsproblem
-    under en promenad i naturen.
+    När jag inte knackar kod, lyssnar på podcasts om kod eller något annat
+    ser jag gärna en film eller senaste avsnittet av en grym serie.
+    En del promenader med grubblande över programmeringsproblem blir det också.
 # Site tagline
 tagline: Utvecklare <br> med fokus på webben
 # Full URL to github profile
