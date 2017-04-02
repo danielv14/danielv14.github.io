@@ -1,0 +1,24 @@
+section.posts-archive {
+  min-height: 87vh;
+
+  h3 {
+    margin-bottom: 8px;
+  }
+
+  a.read-more {
+    color: $color-primary;
+    font-size: 1.9rem;
+  }
+
+  .blogpost {
+    padding: 1.5rem 0;
+  }
+
+  .date {
+    color: lighten($color-fifth, 30%);
+  }
+
+  .excerpt {
+    margin-top: 8px;
+  }
+}

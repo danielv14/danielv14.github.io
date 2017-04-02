@@ -1,0 +1,26 @@
+section.post {
+  min-height: 89vh;
+
+  .title {
+    margin-bottom: 8px;
+    // font-size: 5rem;
+  }
+
+  .date {
+    color: lighten($color-fifth, 30%);
+    font-size: 1em;
+    margin-top: 0;
+  }
+
+  article {
+
+    img {
+      max-width: 100%;
+    }
+  }
+}
+
+.button-back-wrapper {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}

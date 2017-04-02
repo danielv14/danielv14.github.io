@@ -1,15 +1,18 @@
 const gulp = require('gulp');
-const image = require('gulp-image');
 const shell = require('gulp-shell');
 const concat = require('gulp-concat');
 const sourcemaps = require('gulp-sourcemaps');
 const minify = require('gulp-minify');
+const imagemin = require('gulp-imagemin');
 
 
 // Path object containing asset paths
 const paths = {
   'img': {
-    'base': 'assets/img/*'
+    'src': [
+      'assets/img/*',
+      'assets/img/*/*'
+    ]
   },
   'js': {
     'src': [
@@ -32,9 +35,11 @@ gulp.task('scripts:concat', () => {
 
 // Task to compress all images inside asset folder
 gulp.task('img:compress', () => {
-  gulp.src(paths.img.base)
-    .pipe(image())
-    .pipe(gulp.dest('./assets/img'));
+  return gulp.src(paths.img.src)
+    .pipe(imagemin())
+    .pipe(gulp.dest(file => {
+      return file.base;
+    }));
 });
 
 // Task to serve with jekyll command

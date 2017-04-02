@@ -33,11 +33,11 @@
 
 // font mixins
 @mixin font-text() {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 @mixin font-headings() {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 
@@ -55,4 +55,9 @@
     padding $time $cubic-bezier,
     background-color $time ease-in-out,
     color $time ease-in-out;
+}
+
+
+@mixin blockquote-bg() {
+  background-color: lighten($color-primary, 45%);
 }

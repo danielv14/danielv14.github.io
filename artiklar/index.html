@@ -1,0 +1,42 @@
+---
+layout: default
+title: Alla inlägg
+---
+
+<section class="posts-archive">
+
+  <div class="button-back-wrapper">
+    <a class="button button-back" href="/#artiklar">Hem</a>
+  </div>
+
+  <div class="container">
+    <div class="content col-md-10 col-md-offset-1">
+      <h1 class="title text-center">Alla inlägg</h1>
+
+      {% for post in paginator.posts %}
+        <div class="blogpost">
+          <h3><a href="{{ post.url }}" class="link-dark">{{ post.title }}</a></h3>
+          <span class="date">{{ post.date | date: "%d-%m-%Y" }}</span>
+          <div class="excerpt">
+            {{ post.excerpt }}
+          </div>
+          <a href="{{ post.url }}" class="read-more" title="{{ post.title }}">Läs mer</a>
+        </div>
+        {% if forloop.last == false %}
+          <hr>
+        {% endif %}
+      {% endfor %}
+
+      <!-- Pagination links -->
+      <div class="pagination text-center">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous"><i class="ion-arrow-left-b"></i> Föregående</a>
+        {% endif %}
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Nästa <i class="ion-arrow-right-b"></i></a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+</section>

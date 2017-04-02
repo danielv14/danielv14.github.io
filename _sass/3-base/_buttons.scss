@@ -18,7 +18,7 @@
     padding: 0.9rem 4rem;
   }
 
-  // Target font-awesome childs
+  // Target icon childs
   > i {
     font-size: 0.8em;
   }
@@ -30,11 +30,23 @@
   padding: 0.9rem 2.2rem;
 }
 
-// Styling for back button on portfolio layout page
-.button-portfolio-back {
+// Styling for blogposts button on homepage
+.button-blogposts {
+  color: white;
+  border-color: white;
+  font-size: 2rem;
+  padding: 0.9rem 2.2rem;
+  &:hover {
+    background-color: white;
+    color: $color-secondary;
+  }
+}
+
+// Styling for back button
+.button-back {
   margin-left: 2%;
   padding: 1rem 2rem;
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   color: $color-primary;
   padding: 1rem 2rem;
   border: 5px solid $color-primary;
