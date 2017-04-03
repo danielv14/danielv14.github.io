@@ -98,7 +98,7 @@ På backendsidan använder jag gärna följande:
 + [MAMP](https://www.mamp.info/en/) finns även installerat men jag använder denna stack allt mindre och mindre.
 
 ### Databas
-Som standard använder jag främst databasen [PostgreSQL](https://www.postgresql.org/) som relationsdatabas och har väl egentligen mest nosat på NoSQL-databaser via [RethinkDB](https://www.rethinkdb.com/) och [Firebase](https://firebase.google.com/)
+Som standard använder jag främst databasen [PostgreSQL](https://www.postgresql.org/) som relationsdatabas och har väl egentligen mest nosat på NoSQL-databaser via [RethinkDB](https://www.rethinkdb.com/) och [Firebase](https://firebase.google.com/).
 
 ### Hosting
 När det gäller hosting av diverse projekt brukar jag använda mig av [Heroku](https://www.heroku.com/) främst för att det finns en gratisnivå men också för att det går enkelt att använda git för deploy. Heroku har också ett behändigt [CLI](https://devcenter.heroku.com/articles/heroku-cli) som man kan använda för att skapa och ta hand om appar skapade hos dem.
