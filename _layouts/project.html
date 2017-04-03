@@ -21,9 +21,6 @@ layout: default
     {% if page.website %}
       <a target="_blank" href="{{ page.website }}" title="Besök webbadressen"><i class="ion-earth"></i></a>
     {% endif %}
-    {% if page.in-progress %}
-      <i class="ion-settings" title="Under utveckling"></i>
-    {% endif %}
 
   </div>
 
@@ -32,9 +29,6 @@ layout: default
 
       <h2 class="text-center title">
         {{ page.title }}
-        {% if page.in-progress %}
-          <span class="tag">Under utveckling</span>
-        {% endif %}
       </h2>
 
       <div class="tags text-center">
