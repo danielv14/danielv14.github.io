@@ -16,7 +16,7 @@
   a.title-link {
     font-size: 2.5rem;
     font-weight: bold;
-    font-family: 'Montserrat', sans-serif;
+    @include font-headings;
     color: $color-third;
   }
 
@@ -34,7 +34,7 @@
   div.links {
     padding-top: 3rem;
      a {
-       font-family: 'Montserrat', sans-serif;
+       @include font-headings;
        color: $color-third;
        font-size: 2.4rem;
      }
