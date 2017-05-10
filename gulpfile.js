@@ -59,5 +59,5 @@ gulp.task('watch', () => {
 
 });
 
-// Default task triggers gulp watch
-gulp.task('default', ['watch']);
+// Default task triggers gulp watch and serve jekyll site
+gulp.task('default', ['watch', 'serve:drafts']);
