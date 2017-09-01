@@ -131,7 +131,7 @@ exports.queryHelper = class {
 }
 ```
 
-Klassen består alltså av en konstruktor och två metoder. Den första metoden `getSanitizedQuery()` returnerar en söksträng där alla mellanrum i strängen har bytts ut mot plustecken. Den andra metoden `getIMDbID()` tar `href` som parameter och resturnerar själva IMDb ID:t från en URL. Den extraherar alltså `tt0411008` från `http://www.imdb.com/title/tt0411008/` Metoden är statisk därför att IMDb klassen använder sig av denna metod, men det fanns inget behov av att skapa en ny instans av `queryHelper` inuti IMDb klassen. 
+Klassen består alltså av en konstruktor och två metoder. Den första metoden `getSanitizedQuery()` returnerar en söksträng där alla mellanrum i strängen har bytts ut mot plustecken. Den andra metoden `getIMDbID()` tar **href** som parameter och resturnerar själva IMDb ID:t från en URL. Den extraherar alltså **tt0411008** från **http://www.imdb.com/title/tt0411008/** Metoden är statisk därför att IMDb klassen använder sig av denna metod, men det fanns inget behov av att skapa en ny instans av `queryHelper` inuti IMDb klassen. 
 
 Slutligen har vi kvar själva IMDb klassen **IMDb.js** som består av ett antal metoder.
 
