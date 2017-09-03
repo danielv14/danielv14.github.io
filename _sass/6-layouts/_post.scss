@@ -6,10 +6,13 @@ section.post {
     // font-size: 5rem;
   }
 
-  .date {
+  .post-info {
     color: lighten($color-fifth, 30%);
-    font-size: 1em;
+    font-size: 1.2em;
     margin-top: 0;
+    span {
+      margin: 10px;
+    }
   }
 
   article {
@@ -23,4 +26,14 @@ section.post {
 .button-back-wrapper {
   padding-top: 3rem;
   padding-bottom: 3rem;
+}
+
+@include mq-max($screen-sm) {
+  section.post {
+    .post-info {
+      span {
+        display: block;
+      }
+    }
+  }
 }

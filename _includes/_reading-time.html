@@ -1,0 +1,6 @@
+{% assign words = content | number_of_words %}
+{% if words < 360 %}
+1 minuts läsning
+{% else %}
+Runt {{ words | divided_by:180 }} minuter läsning
+{% endif %}
