@@ -18,5 +18,3 @@ Tanken med Organice var att det skulle vara en applikation som hjälper använda
 ## Demo
 Eftersom att Organice är ett designkoncept finns det ingen "riktigt" applikation att prova på, men viss demomöjlighet finns ändå där man kan navigera runt i applikationen. Besök demonstrationen [här](https://marvelapp.com/13jc9b7).
 
-<br>
-<img class="img-responsive smaller center-block" src="/assets/img/projects/organice.png" alt="Hifi prototyp av Organice" />
