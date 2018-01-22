@@ -1,32 +1,33 @@
-# Webdev stack
-webdev:
+# dev stack
+dev:
   - name: HTML5
   - name: CSS3
   - name: SASS & LESS
-  - name: JavaScript
-  - name: jQuery
+  - name: JavaScript &amp; jQuery
   - name: AngularJS
+  - name: Vue.js
   - name: Node
   - name: Laravel
-  - name: API
   - name: Heroku
-  - name: Ionic &amp; Cordova
-  - name: Vue.js
   - name: Bootstrap
   - name: Ruby on Rails
   - name: PHP
   - name: Gulp
+  - name: Python
+  - name: Git
+
 
 # Other technologies
 other:
   - name: MVC Metodik
   - name: Sketch
   - name: WordPress
-  - name: Git
   - name: VPS
-  - name: Python
-  - name: PostgreSQL
-  - name: MySQL
-  - name: NoSQL
+  - name: SQL &amp; NoSQL
   - name: Bash
   - name: Ruby
+  - name: API:er
+  - name: Ionic &amp; Cordova
+  - name: Unix &amp; Linux
+  - name: SPAs
+

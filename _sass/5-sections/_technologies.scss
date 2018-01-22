@@ -25,9 +25,9 @@ section.technologies {
   }
 
   .header-underline {
-    height: 5px;
+    height: 3px;
     width: 15%;
-    background-color: white;
+    background-color: transparentize(white, 0.15);
     border-radius: $border-radius-base;
   }
 
@@ -36,8 +36,21 @@ section.technologies {
     columns: 2;
     list-style: none;
     padding-left: 0;
-    font-size: 2.2rem;
+    font-size: 2.1rem;
     letter-spacing: 0.1rem;
+  }
+
+  p.pssst {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 40px;
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 1.7rem;
+    span {
+      font-size: 1.15em;
+      font-style: italic;
+      display: block;
+    }
   }
 
   // max medium size
@@ -64,6 +77,10 @@ section.technologies {
       font-size: 1.8rem;
       columns: 2;
       text-align: center;
+    }
+    p.pssst {
+      width: 100%;
+      font-size: 1.4rem;
     }
   }
 
