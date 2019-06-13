@@ -1,11 +1,10 @@
 # dev stack
 dev:
   - name: HTML5
-  - name: CSS3
-  - name: SASS & LESS
-  - name: JavaScript &amp; jQuery
+  - name: CSS3, SASS & LESS
+  - name: JavaScript (ES6)
+  - name: Vue.js & Nuxt.js
   - name: AngularJS
-  - name: Vue.js
   - name: Node
   - name: Laravel
   - name: Heroku
@@ -13,7 +12,7 @@ dev:
   - name: Ruby on Rails
   - name: PHP
   - name: Gulp
-  - name: Python
+  - name: Webpack
   - name: Git
 
 
@@ -25,7 +24,7 @@ other:
   - name: VPS
   - name: SQL &amp; NoSQL
   - name: Bash
-  - name: Ruby
+  - name: Python
   - name: API:er
   - name: Ionic &amp; Cordova
   - name: Unix &amp; Linux

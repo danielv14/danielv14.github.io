@@ -23,6 +23,12 @@
             <li>{{ course.name }}</li>
           {% endfor %}
         </ul>
+        <h3>Tidigare arbetslivserfarenheter</h3>
+        <ul>
+          {% for work in site.data.me.work %}
+          <li>{{ work.name }}</li>
+        {% endfor %}
+        </ul>
       </div>
     </div>
   </div>
