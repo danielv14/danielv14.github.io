@@ -6,6 +6,7 @@ dev:
   - name: Vue.js & Nuxt.js
   - name: AngularJS
   - name: Node
+  - name: Jest
   - name: Laravel
   - name: Heroku
   - name: Bootstrap
