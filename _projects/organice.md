@@ -2,7 +2,7 @@
 title: Organice
 desc: Koncept för en mobil applikation som hjälper en att sortera och organisera förrådsutrymmen
 card-layout: right
-order: 5
+order: 6
 tags: [Sketch, Interaktionsdesign, Wireframing, Prototyp]
 thumbnail: "/assets/img/projects/thumbnails/organice.png"
 image: "/assets/img/projects/organice-user-flow.png"

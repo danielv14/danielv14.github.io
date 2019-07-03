@@ -6,7 +6,7 @@ card-layout: left
 image: "/assets/img/projects/salong-gyllene-klippet.png"
 tags: [Ruby on Rails, PostgreSQL]
 website: https://sheltered-river-12709.herokuapp.com
-order: 1
+order: 2
 ---
 Salong Gyllene klippet är en webbplats skapad åt en frisersalong i Umeå och är byggd med hjälp av ramverket Ruby on Rails. Webbplatsen skapades i samband med en [kurs](https://www.miun.se/utbildning/Kurser/Sok-kursplan/kursplan/?kursplanid=14417) där frisersalongens webbplats var slutresultatet av kursen.
 
