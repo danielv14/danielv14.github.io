@@ -3,7 +3,6 @@ layout: default
 ---
 
 <section class="project">
-
   <div class="project-hero">
     <div class="row button-back-wrapper">
       <a class="button button-back" href="/#{{ page.title | slugify }}">Tillbaka</a>
@@ -13,34 +12,23 @@ layout: default
       <img class="hero-img animated fadeIn" src="{{ page.image }}" alt="">
     </div>
   </div>
-
-  <div class="links text-center">
-    {% if page.github %}
-      <a target="_blank" href="{{ page.github }}" title="Besök {{ page.title }} på GitHub"><i class="ion-social-github"></i></a>
-    {% endif %}
-    {% if page.website %}
-      <a target="_blank" href="{{ page.website }}" title="Besök webbadressen"><i class="ion-earth"></i></a>
-    {% endif %}
-
-  </div>
-
   <div class="container">
     <article class="content col-md-10 col-md-offset-1">
-
-      <h2 class="text-center title">
-        {{ page.title }}
-      </h2>
-
-      <div class="tags text-center">
-        {% for tag in page.tags %}
-          <span class="tag">{{ tag }}</span>
-        {% endfor %}
-      </div>
-
+        <h2 class="text-center title">
+          {{ page.title }}
+          {% if page.github %}
+            <a target="_blank" href="{{ page.github }}" title="Besök {{ page.title }} på GitHub"><i class="ion-social-github"></i></a>
+          {% endif %}
+          {% if page.website %}
+            <a target="_blank" href="{{ page.website }}" title="Besök webbadressen"><i class="ion-earth"></i></a>
+          {% endif %}
+        </h2> 
+        <div class="tags text-center">
+          {% for tag in page.tags %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
       {{ content }}
     </article>
   </div>
-
-
-
 </section>
