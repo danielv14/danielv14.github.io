@@ -40,18 +40,6 @@ section.technologies {
     letter-spacing: 0.1rem;
   }
 
-  p.pssst {
-    width: 60%;
-    margin: 0 auto;
-    margin-top: 40px;
-    color: rgba(255, 255, 255, 0.60);
-    font-size: 1.7rem;
-    span {
-      font-size: 1.15em;
-      font-style: italic;
-      display: block;
-    }
-  }
 
   // max medium size
   @include mq-max ($screen-lg) {
