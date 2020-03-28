@@ -47,7 +47,7 @@
 }
 
 @include mq-min ($screen-sm) {
-  section.projects {
+  #projects{
     .card {
       transition: transform $card-animation-speed $cubic-bezier;
       // Font smoothing on webkit to
