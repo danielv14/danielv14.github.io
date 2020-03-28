@@ -54,9 +54,9 @@
       // not get blurry cards while scaling
       -webkit-font-smoothing: antialiased;
       &:hover {
-        transform: scale(1.015);
-        -ms-transform: scale(1.015);
-        -webkit-transform: scale(1.015);
+        transform: scale(1.010);
+        -ms-transform: scale(1.010);
+        -webkit-transform: scale(1.010);
       }
     }
   }
