@@ -48,4 +48,9 @@ section.blogposts {
     animation: 1.5s blink step-end infinite;
   }
 
+  @include mq-max ($screen-sm) {
+    h2 {
+        font-size: 3rem;
+      }
+  }
 }
