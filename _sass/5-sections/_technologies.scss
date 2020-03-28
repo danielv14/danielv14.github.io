@@ -40,18 +40,6 @@ section.technologies {
     letter-spacing: 0.1rem;
   }
 
-
-  // max medium size
-  @include mq-max ($screen-lg) {
-    h3, ul {
-      text-align: center;
-    }
-    .header-underline {
-      margin: 0 auto;
-      width: 10%;
-    }
-  }
-
   // media query for screens smaller than medium size
   @include mq-max ($screen-sm) {
     h3 {
