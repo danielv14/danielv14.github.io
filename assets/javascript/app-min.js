@@ -1,1 +1,1 @@
-!function(){var t=document.getElementById("button-portfolio"),e=document.getElementById("projects");t&&e&&t.addEventListener("click",function(t){e.scrollIntoView({behavior:"smooth"})})}();
+function portfolioBtnClick(){var o=document.getElementById("projects");o&&o.scrollIntoView({behavior:"smooth"})}
