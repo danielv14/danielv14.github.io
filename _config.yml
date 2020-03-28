@@ -1,14 +1,14 @@
 title: Daniel Vernberg - Portfolio
 email: daniel.vernberg@gmail.com
 description: >
-  Daniel Vernberg Portfolio. Utvecklare med fokus på webben.
+  Daniel Vernberg Portfolio. Webbutvecklare med förkärlek för fullstack JavaScript.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielv14.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
 theme: minima
-paginate: 6
+paginate: 10
 paginate_path: "/artiklar/sida/:num"
 
 sass:
