@@ -14,3 +14,6 @@ Portfolio is using gulp as asset pipeline and the following tasks is available:
 * `gulp serve:drafts` will serve jekyll site and include post drafts
 * `gulp scripts:concat` will concat js files, create sourcemaps and bundle them at target destination
 * `gulp img:compress` will compress all images inside assets folder.
+
+## Deployment
+Master branch is setup to be deployed through GitHub Pages. This means that commits, pull request etc to master branch will be auto-deployed through GitHub Pages.
