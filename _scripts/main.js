@@ -1,12 +1,9 @@
-$(function(){
-
-  // click button and scroll to projects
-  $('#button-portfolio').on('click', function(event) {
-    event.preventDefault();
-      var target = $("section.projects");
-      $('html, body').stop().animate({
-          scrollTop: target.offset().top
-      }, 1000);
-  });
-
-});
+(function(){
+ var button = document.getElementById('button-portfolio')
+ var target = document.getElementById('projects')
+ if (button && target) {
+   button.addEventListener('click', function(event) {  
+   target.scrollIntoView({behavior: 'smooth'});
+  })
+ }
+})();
