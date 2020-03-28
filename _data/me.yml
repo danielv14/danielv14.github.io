@@ -2,27 +2,24 @@
 education: Kandidatexamen i informatik
 
 # Example courses to display in about-me section
-courses:
-  - name: Människa-dator-interaktion
-  - name: Webbapplikationer för mobila enheter
-  - name: Databasdrivna webbapplikationer med PHP och MVC-ramverk
-  - name: Agil systemutveckling
+#courses:
+#  - name: Människa-dator-interaktion
+#  - name: Webbapplikationer för mobila enheter
+#  - name: Agil systemutveckling
 
 # Example work
 work:
+- name: Webbutvecklare
 - name: Frontend-utvecklare
 - name: Webbdesigner
 
 # Small bio to display in about-me section
 bio:
   firstSection: >
-    Daniel heter jag och  gillar att koda, framför allt för webben.
-    Jag gillar problemlösning med hjälp av teknik, då främst med JavaScript som mitt främsta verktyg och uppskattar alltid ett schysst gränssnitt.
+    Daniel heter jag och är en webbutvecklare by day och seriefantast by night.
   lastSection: >
-    När jag inte knackar kod, lyssnar på podcasts om kod
-    ser jag gärna en film eller senaste avsnittet av en grym tv-serie.
-    En del promenader med grubblande över programmeringsproblem blir det också.
+    När jag inte knackar kod om dagarna ser jag gärna en film eller senaste avsnittet av en grym tv-serie.
 # Site tagline
-tagline: Utvecklare som brinner för webben
+tagline: Webbutvecklare med en förkärlek för Fullstack JavaScript
 # Full URL to github profile
 github-url: https://github.com/danielv14

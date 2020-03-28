@@ -1,7 +1,7 @@
 <section class="about">
   <div class="container">
     <div class="col-md-offset-1">
-      <h2>Hej!</h2>
+      <h2>Hallå där!</h2>
     </div>
     <div class="row">
       <div class="col-md-5 col-md-offset-1">
@@ -13,22 +13,27 @@
         </p>
       </div>
       <div class="col-md-4 col-md-offset-1">
-        <h3>Utbildning</h3>
-        <ul>
-          <li>{{ site.data.me.education }}</li>
-        </ul>
-        <h3>Axplock av kurser</h3>
-        <ul>
-          {% for course in site.data.me.courses %}
-            <li>{{ course.name }}</li>
-          {% endfor %}
-        </ul>
-        <h3>Tidigare arbetslivserfarenheter</h3>
+        <h3>Tidigare erfarenheter</h3>
         <ul>
           {% for work in site.data.me.work %}
           <li>{{ work.name }}</li>
         {% endfor %}
         </ul>
+        {% if site.data.me.education %}
+        <h3>Utbildning</h3>
+        <ul>
+          <li>{{ site.data.me.education }}</li>
+        </ul>
+        {% endif %}
+        {% if site.data.me.courses %}
+          <h3>Axplock av kurser</h3>
+          <ul>
+            {% for course in site.data.me.courses %}
+              <li>{{ course.name }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
       </div>
     </div>
   </div>
