@@ -1,33 +1,22 @@
+title: Verktyg
+
+intro: >
+  Jag har tidigare använt allt från PHP och Ruby on Rails för att bygga sajter
+  men nuförtiden är det mest fullstack Typescript som intresserar mig.
 # dev stack
 dev:
   - name: HTML5
-  - name: CSS3, SASS & LESS
-  - name: JavaScript (ES6)
-  - name: Vue.js & Nuxt.js
-  - name: AngularJS
+  - name: CSS, SASS och LESS
+  - name: Styled Components
+  - name: JavaScript och TypeScript
+  - name: React och Vue
   - name: Node
-  - name: Jest
-  - name: Laravel
-  - name: Heroku
-  - name: Bootstrap
-  - name: Ruby on Rails
-  - name: PHP
-  - name: Gulp
   - name: Webpack
-  - name: Git
-
 
 # Other technologies
 other:
-  - name: MVC Metodik
+  - name: Unit-tester med Jest
+  - name: NoSQL med Firebase
+  - name: PostgreSQL
   - name: Sketch
-  - name: WordPress
-  - name: VPS
-  - name: SQL &amp; NoSQL
-  - name: Bash
-  - name: Python
-  - name: API:er
-  - name: Ionic &amp; Cordova
-  - name: Unix &amp; Linux
-  - name: SPAs
-
+  - name: Versionshantering med Git

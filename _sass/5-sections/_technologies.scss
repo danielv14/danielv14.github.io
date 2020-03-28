@@ -40,30 +40,6 @@ section.technologies {
     letter-spacing: 0.1rem;
   }
 
-  p.pssst {
-    width: 60%;
-    margin: 0 auto;
-    margin-top: 40px;
-    color: rgba(255, 255, 255, 0.60);
-    font-size: 1.7rem;
-    span {
-      font-size: 1.15em;
-      font-style: italic;
-      display: block;
-    }
-  }
-
-  // max medium size
-  @include mq-max ($screen-lg) {
-    h3, ul {
-      text-align: center;
-    }
-    .header-underline {
-      margin: 0 auto;
-      width: 10%;
-    }
-  }
-
   // media query for screens smaller than medium size
   @include mq-max ($screen-sm) {
     h3 {
@@ -75,7 +51,7 @@ section.technologies {
     }
     ul {
       font-size: 1.8rem;
-      columns: 2;
+      columns: 1;
       text-align: center;
     }
     p.pssst {

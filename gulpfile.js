@@ -16,7 +16,6 @@ const paths = {
   },
   'js': {
     'src': [
-      '_scripts/jquery-3.1.1.min.js',
       '_scripts/main.js'
     ],
     'dest': './assets/javascript/'

@@ -50,6 +50,9 @@ section.about {
   }
 
   @include mq-max ($screen-sm) {
+    .container {
+        padding-top: 0;
+      }
     .bio, p {
       font-size: 2rem;
     }

@@ -28,11 +28,6 @@ section.hero {
 
   }
 
-  .letter-lg {
-    font-size: 1.4em;
-    letter-spacing: 0rem;
-  }
-
   h2 {
     margin-bottom: 4rem;
     animation-delay: 500ms;
@@ -40,8 +35,9 @@ section.hero {
   }
 
   @include mq-max ($screen-sm) {
+    height: 60vh;
     h1 {
-      font-size: 3rem;
+      font-size: 4rem;
       padding: 1rem;
     }
     h2 {

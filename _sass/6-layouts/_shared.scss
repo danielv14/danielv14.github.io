@@ -34,6 +34,9 @@
     color: $color-fifth;
     margin-top: 3.5rem;
     margin-bottom: 2rem;
+    a {
+      color:$color-fifth; 
+    }
   }
   p, li {
     font-size: 1.9rem;

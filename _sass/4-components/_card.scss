@@ -72,6 +72,7 @@
 
 @include mq-max ($screen-sm) {
   .card {
+    margin: 2rem 0;
     img {
       max-width: 80%;
     }

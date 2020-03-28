@@ -1,4 +1,4 @@
-section.projects {
+#projects {
 
   background: url('../../assets/img/bg.svg');
   background-repeat: repeat;
@@ -47,16 +47,16 @@ section.projects {
 }
 
 @include mq-min ($screen-sm) {
-  section.projects {
+  #projects{
     .card {
       transition: transform $card-animation-speed $cubic-bezier;
       // Font smoothing on webkit to
       // not get blurry cards while scaling
       -webkit-font-smoothing: antialiased;
       &:hover {
-        transform: scale(1.015);
-        -ms-transform: scale(1.015);
-        -webkit-transform: scale(1.015);
+        transform: scale(1.010);
+        -ms-transform: scale(1.010);
+        -webkit-transform: scale(1.010);
       }
     }
   }
