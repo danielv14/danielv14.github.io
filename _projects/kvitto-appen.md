@@ -7,7 +7,7 @@ image: "/assets/img/projects/kvitto-appen.png"
 tags: [Ionic, Angular, NoSQL]
 github: https://github.com/danielv14/Kvitto-Appen
 website: http://receipt-counter.herokuapp.com
-order: 3
+order: 4
 ---
 Kvitto Appen är en webbaserad applikation som växte ur ett behov av att förenkla min egen vardag. Jag insåg att jag många gånger manuellt behövde räkna ut och hålla koll på kvitton och skulder inom hemmet. Det är just det som Kvitto Appen hjälper mig med.
 
