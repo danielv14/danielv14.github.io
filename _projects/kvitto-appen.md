@@ -14,6 +14,3 @@ Kvitto Appen är en webbaserad applikation som växte ur ett behov av att fören
 Applikationen har genomgått olika versioner där skulderna först sparades i cookies och där själva webbappen skapades med diverse jQuery-lösningar till att slutligen bli en hybridapplikation skapad med hjälp av [Ionic](https://ionicframework.com) och  [AngularJS](https://angularjs.org) där kvittona och skulderna sparas med hjälp [Firebase](https://www.firebase.com). Kvitto Appen skyddas nu även av autentisering och inloggning vilket öppnar upp applikationen för fler användare.
 
 {% include heroku-info.html %}
-
-## Utmaningar
-Den största utmaningen med Kvitto Appen var att få alla tekniker att arbeta med varandra på ett bra sätt. Ionic, AngularJS och Firebase som databas och autentisering behövde fungera i samspel för att skapa en bra upplevelse där kvitton och skulder reds ut på ett effektivt sätt. En utmaning som så vitt jag vet är en bugg i versionen av Firebase jag använde är att inloggningen till applikationen ibland inte fungerar vid första försöket, även om inloggningsuppgifterna stämmer. Detta är dock endast ett problem när en så kallad `authWithOAuthRedirect` autentiseringsmetod används istället för `authWithOAuthPopup` metod.
