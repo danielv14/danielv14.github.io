@@ -68,27 +68,31 @@ section.project {
       max-width: 85%;
     }
   }
-
 }
 
 @include mq-max ($screen-sm) {
-
-  section.project .project-hero .btn-back-wrapper {
-    padding-bottom: 30px;
+  section.project {
+    article {
+      .title {
+        font-size: 3.5rem;
+      }
+      div.heroku-info {
+        margin-left: 0px;
+      }
+    }
+    .hero-img {
+      max-width: 95%;
+    }
+    .project-hero .btn-back-wrapper {
+      padding-bottom: 30px;
+    }
+    .links {
+      padding: 0;
+      a {
+        font-size: 3.5rem;
+        margin: 0;
+      }
+    }
   }
 
-  section.project article div.heroku-info {
-    margin-left: 0px;
-  }
-
-  section.project .hero-img {
-    max-width: 95%;
-  }
-  section.project .links {
-    padding: 0;
-  }
-  section.project .links a {
-    font-size: 3.5rem;
-    margin: 0;
-  }
 }
