@@ -10,6 +10,7 @@ span.tag {
   border-radius: $border-radius-base;
   @include font-headings;
   line-height: 3rem;
+  font-weight: bold;
 }
 
 h2 {
