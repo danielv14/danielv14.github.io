@@ -2,11 +2,11 @@
 title: Organice
 desc: Koncept för en mobil applikation som hjälper en att sortera och organisera förrådsutrymmen
 card-layout: right
-order: 6
 tags: [Sketch, Interaktionsdesign, Wireframing, Prototyp]
 thumbnail: "/assets/img/projects/thumbnails/organice.png"
 image: "/assets/img/projects/organice-user-flow.png"
 website: https://marvelapp.com/13jc9b7
+order: 5
 ---
 Organice är ett designkoncept för en mobil applikation skapad under en [kurs](http://www.hkr.se/kurs/WD461F) som gick ut på att lära sig om samt skapa digitala upplevelser. Organice är ett resultat av kursens slutuppgift där ett designprojekt skulle genomföras.
 
