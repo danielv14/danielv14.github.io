@@ -52,5 +52,7 @@ Förbättra och förbättra… Infrastrukturen tyckte jag egentligen inte att ja
 Men hur blev det med cronjob för att skrapa Aftonbladet dagligen? Ja… tidigare användes ju Laravel som hade väldigt schyssta möjligheter att schemalägga jobb. Next är lite mer barebones. Ett litet fulhack implementerades där ett vanligt bash-script CURL:ar API:et - som i sin tur skrapar dagens antal checkers och sparar ned dom i Firestore. I heroku kan man schemalägga aktiviteter och helt enkelt så triggas det skriptet dagligen - enkelt men effektivt. Steg 6 check!
 
 ## Slutet gott allting gott
-Det var alltså min lilla historia i 6 steg om hur jag väckte liv ett 3 år gammalt projekt. För den som är intresserad finns källkoden [här](https://github.com/danielv14/aftonbladet-checkr-next) och sajten går att besöka på [https://aftonbladet-checker.herokuapp.com/](https://aftonbladet-checker.herokuapp.com/)
+Det var alltså min lilla historia om hur jag i 6 steg väckte liv ett 3 år gammalt projekt. Eller tja.. väckte liv i och väkte liv i...Jag slängde ut allting förutom själva datan - men datan var ju ändå trots allt det viktigaste att spara och behålla i en återuppståndelse likt denna historia.
+
+För den som är intresserad finns källkoden [här](https://github.com/danielv14/aftonbladet-checkr-next) och sajten går att besöka på [https://aftonbladet-checker.herokuapp.com/](https://aftonbladet-checker.herokuapp.com/)
 
