@@ -14,7 +14,7 @@
   }
 
   a.title-link {
-    font-size: 2.5rem;
+    font-size: $font-size-content-card-title;
     font-weight: bold;
     @include font-headings;
     color: $color-third;
@@ -22,7 +22,7 @@
 
   p {
     color: $color-fifth;
-    font-size: 2.2rem;
+    font-size: $font-size-content-card;
   }
 
   img {
@@ -36,7 +36,7 @@
      a {
        @include font-headings;
        color: $color-third;
-       font-size: 2.4rem;
+       font-size: $font-size-content-card-link;
        font-weight: bold;
      }
 

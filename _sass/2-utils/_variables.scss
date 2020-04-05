@@ -22,3 +22,9 @@ $padding-sections: 4.5rem;
 // animation speed for scale and shadow changes
 $card-animation-speed: 200ms;
 $cubic-bezier: cubic-bezier(0.68, -0.1, 0.265, 1.55);
+
+$font-size-content: 1.75rem;
+$font-size-content-lg: 2rem;
+$font-size-content-card: $font-size-content-lg;
+$font-size-content-card-title: 2.5rem;
+$font-size-content-card-link: $font-size-content-card-title;

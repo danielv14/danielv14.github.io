@@ -21,7 +21,7 @@ section.technologies {
   }
 
   p {
-    font-size: 2rem;
+    font-size: $font-size-content-lg;
   }
 
   .header-underline {
@@ -36,7 +36,7 @@ section.technologies {
     columns: 2;
     list-style: none;
     padding-left: 0;
-    font-size: 2.1rem;
+    font-size: $font-size-content-lg;
     letter-spacing: 0.1rem;
   }
 
