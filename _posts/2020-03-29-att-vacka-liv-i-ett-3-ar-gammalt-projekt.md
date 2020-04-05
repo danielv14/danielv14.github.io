@@ -7,7 +7,7 @@ excerpt: 'För tre år sedan skapade jag ett projekt som skrapade Aftonbladet da
 ## Bakgrund
 År 2017 använda jag PHP-ramverket Laravel en del för att bygga sajter, tillsammans med Vue som frontend. En sajt jag byggde gick ut på att varje dag skrapa Aftonbladet på lite onödig information så att sajten kunde visa upp denna information i en schysst graf. Sajten skrapade hur många ✔ Aftonbladet använde varje dag och sparade ner antalet i en postgesdatabas som snurrade på Heroku. 
 
-Jag byggde sajten, satte upp ett cronjob i heroku, implementerade en graf som visade antalet ”checkers” de senaste dagarna och gick sedan vidare till andra projekt. Dagarna gick, månaderna gick, åren gick och plötsligt är det år 2020 och den här sajten har samlat in 3 års data. Det fanns ett litet problem dock. Sajten visade bara data för de senaste dagarna i en enda stackars graf. Med 3 års data borde man kunna få till lite mer roliga grafer och skära i datat på lite alla möjliga sätt för att presentera datat.
+Jag byggde sajten, satte upp ett cronjob i Heroku, implementerade en graf som visade antalet ”checkers” de senaste dagarna och gick sedan vidare till andra projekt. Dagarna gick, månaderna gick, åren gick och plötsligt är det år 2020 och den här sajten har samlat in 3 års data. Det fanns ett litet problem dock. Sajten visade bara data för de senaste dagarna i en enda stackars graf. Med 3 års data borde man kunna få till lite mer roliga grafer och skära i datat på lite alla möjliga sätt för att presentera datat.
 
 Jag stod inför ett val. Mycket har hänt sedan 2017 och jag sysslar för det mesta med fullstack JavaScript/TypeScript och inte så mycket PHP längre. Antingen dammar jag av mina PHP skills eller så tar jag tillfälle i akt att helt enkelt bygga om hela det här projektet. Jag byggde såklart om hela projektet… Ingen sten lämnades orörd utan frontend och backend byttes ut och även databasen byttes ut. 
 
@@ -49,10 +49,10 @@ Att bygga frontend gick rätt fort. Endast ett API-anrop till backend implemente
 ## Steg 6: Förbättra infrastrukturen och se över CI/CD
 Förbättra och förbättra… Infrastrukturen tyckte jag egentligen inte att jag behövde göra speciellt mycket åt. Heroku funkar bra och att applikationer byggs om när något händer på master branchen är ju väldigt schysst. Däremot hade det ju varit lite av en trygghet om något CI bygge skedde på varje push och varje merge request - för att försöka förhindra problem innan de uppstår. Travis CI implementerades och på varje push och merge request körs ett skript som lintar projektet och verifierar att projektet går att bygga.
 
-Men hur blev det med cronjob för att skrapa Aftonbladet dagligen? Ja… tidigare användes ju Laravel som hade väldigt schyssta möjligheter att schemalägga jobb. Next är lite mer barebones. Ett litet fulhack implementerades där ett vanligt bash-script CURL:ar API:et - som i sin tur skrapar dagens antal checkers och sparar ned dom i Firestore. I heroku kan man schemalägga aktiviteter och helt enkelt så triggas det skriptet dagligen - enkelt men effektivt. Steg 6 check!
+Men hur blev det med cronjob för att skrapa Aftonbladet dagligen? Ja… tidigare användes ju Laravel som hade väldigt schyssta möjligheter att schemalägga jobb. Next är lite mer barebones. Ett litet fulhack implementerades där ett vanligt bash-script CURL:ar API:et - som i sin tur skrapar dagens antal checkers och sparar ned dom i Firestore. I Heroku kan man schemalägga aktiviteter och helt enkelt så triggas det skriptet dagligen - enkelt men effektivt. Steg 6 check!
 
 ## Slutet gott allting gott
 Det var alltså min lilla historia om hur jag i 6 steg väckte liv ett 3 år gammalt projekt. Eller tja.. väckte liv i och väkte liv i...Jag slängde ut allting förutom själva datan - men datan var ju ändå trots allt det viktigaste att spara och behålla i en återuppståndelse likt denna historia.
 
-För den som är intresserad finns källkoden [här](https://github.com/danielv14/aftonbladet-checkr-next) och sajten går att besöka på [https://aftonbladet-checker.herokuapp.com/](https://aftonbladet-checker.herokuapp.com/)
+För den som är intresserad finns källkoden [här](https://github.com/danielv14/aftonbladet-checkr-next) och sajten går att besöka på [https://aftonbladet-checker.Herokuapp.com/](https://aftonbladet-checker.Herokuapp.com/)
 
