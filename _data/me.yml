@@ -1,5 +1,5 @@
 # Education
-education: Kandidatexamen i informatik
+education: Kandidatexamen i Informatik
 
 # Example courses to display in about-me section
 #courses:
@@ -20,6 +20,6 @@ bio:
   lastSection: >
     När jag inte knackar kod om dagarna ser jag gärna en film eller senaste avsnittet av en grym tv-serie.
 # Site tagline
-tagline: Webbutvecklare med förkärlek för fullstack JavaScript
+tagline: Webbutvecklare med förkärlek för JavaScript
 # Full URL to github profile
 github-url: https://github.com/danielv14
