@@ -7,7 +7,8 @@ intro: >
 dev:
   - name: HTML5
   - name: CSS, SASS och LESS
-  - name: JavaScript och TypeScript
+  - name: JavaScript
+  - name: TypeScript
   - name: React och Vue
   - name: Node
 
@@ -17,4 +18,4 @@ other:
   - name: NoSQL med Firebase
   - name: PostgreSQL
   - name: Sketch
-  - name: Versionshantering med Git
+  - name: Git
