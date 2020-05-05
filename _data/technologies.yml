@@ -1,8 +1,8 @@
 title: Verktyg
 
 intro: >
-  Jag har tidigare använt allt från PHP och Ruby on Rails för att bygga sajter
-  men nuförtiden är det mest JavaScript, både till frontend och backend, som intresserar mig.
+  Jag har tidigare använt allt från PHP och Ruby on Rails för att bygga sajter.
+   Nu för tiden är det mest fullstack JavaScript som intresserar mig.
 # dev stack
 dev:
   - name: HTML5
