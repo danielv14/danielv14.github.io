@@ -53,10 +53,3 @@ function trailer-dl() {
 ```
 <br>
 `movie-trailer` kan antingen söka efter URL till en trailer efter enbart namnet på en film eller också namnet plus årtalet. Således innehåller funktionen ovan två scenarion beroende på om man anger ett årtal eller ej.
-
-
-## Demonstration
-Hur det ser ut när man använder denna funktion som kombinerar verktygen går att se här nedanför.
-
-<script type="text/javascript" src="https://asciinema.org/a/0a1ax2yeaa0ts472498kjmlnf.js" id="asciicast-0a1ax2yeaa0ts472498kjmlnf" async></script>
-
