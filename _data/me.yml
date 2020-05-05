@@ -1,13 +1,16 @@
 # Education
+educationHeadline: Utbildning
 education: Kandidatexamen i Informatik
 
 # Example courses to display in about-me section
+#coursesHeadline: Axplock av kurser
 #courses:
 #  - name: Människa-dator-interaktion
 #  - name: Webbapplikationer för mobila enheter
 #  - name: Agil systemutveckling
 
 # Example work
+workHeadline: Tidigare erfarenheter
 work:
 - name: Webbutvecklare
 - name: Frontend-utvecklare
@@ -15,6 +18,7 @@ work:
 
 # Small bio to display in about-me section
 bio:
+  heading: 👋 Hallå där!
   firstSection: >
     Daniel här. Webbutvecklare by day och seriefantast by night.
   lastSection: >
