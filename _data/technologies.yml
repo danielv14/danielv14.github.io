@@ -1,14 +1,13 @@
-title: Verktyg
+title: Verktygslådan
 
 intro: >
   Jag har tidigare använt allt från PHP och Ruby on Rails för att bygga sajter.
-   Nu för tiden är det mest fullstack JavaScript som intresserar mig.
+   Nu för tiden är det mest TypeScript för front- och backend som ligger närmst till hands i form av React och Node.
 # dev stack
 dev:
   - name: HTML5
   - name: CSS, SASS och LESS
-  - name: JavaScript
-  - name: TypeScript
+  - name: JavaScript och TypeScript
   - name: React och Vue
   - name: Node
 
