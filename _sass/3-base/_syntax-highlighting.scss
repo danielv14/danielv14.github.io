@@ -11,7 +11,7 @@ pre code {
     white-space: pre;
 }
 
-.highlight {
+pre.highlight {
   border-radius: 0.18rem;
   color: rgba(85, 85, 85, 1);
   padding: 3rem;
@@ -19,7 +19,7 @@ pre code {
 }
 
 @include mq-max ($screen-sm) {
-  .highlight {
+  pre.highlight {
     padding: 1.5rem;
   }
 }
