@@ -1,4 +1,7 @@
 # Personal Portfolio
+
+> **THIS PORTFOLIO IS NO LONGER IN USE** but is kept for reference.
+
 Repo for my personal portfolio build with the static site generator Jekyll
 
 ## Running locally
